@@ -1,0 +1,196 @@
+
+ URL: https://www.domain.com.au/11-1740-pacific-highway-wahroonga-nsw-2076-2016004220 
+ Property address: 11_1740 Pacific Highway, Wahroonga NSW 2076 
+ guid price: 1000000 
+ bedroom: 3 
+ type: Townhouse 
+ URL: https://www.domain.com.au/26-26c-osborn-road-normanhurst-nsw-2076-2016007382 
+ Property address: 26 & 26C Osborn Road, Normanhurst NSW 2076 
+ guid price: 1000000 
+ bedroom: 0 
+ type: Vacant land 
+ URL: https://www.domain.com.au/37-1-3-eulbertie-avenue-warrawee-nsw-2074-2016084353 
+ Property address: 37_1_3 Eulbertie Avenue, Warrawee NSW 2074 
+ guid price: 1000000 
+ bedroom: 2 
+ type: Apartment / Unit / Flat 
+ URL: https://www.domain.com.au/19-stewart-avenue-hornsby-nsw-2077-2016075816 
+ Property address: 19 Stewart Avenue, Hornsby NSW 2077 
+ guid price: 1000000 
+ bedroom: 2 
+ type: House 
+ URL: https://www.domain.com.au/turramurra-nsw-2074-2016074887 
+ Property address: Turramurra NSW 2074 
+ guid price: 1000000 
+ bedroom: 3 
+ type: Apartment / Unit / Flat 
+ URL: https://www.domain.com.au/11-bundanoon-place-hornsby-heights-nsw-2077-2016061149 
+ Property address: 11 Bundanoon Place, Hornsby Heights NSW 2077 
+ guid price: 1000000 
+ bedroom: 3 
+ type: House 
+ URL: https://www.domain.com.au/25-ravenhill-road-turramurra-nsw-2074-2016023108 
+ Property address: 25 Ravenhill Road, Turramurra NSW 2074 
+ guid price: 1000000 
+ bedroom: 5 
+ type: House 
+ URL: https://www.domain.com.au/407-1454-pacific-highway-turramurra-nsw-2074-2015994303 
+ Property address: 407_1454 Pacific  Highway, Turramurra NSW 2074 
+ guid price: 1000000 
+ bedroom: 2 
+ type: Apartment / Unit / Flat 
+ URL: https://www.domain.com.au/unit-29-11-19-thornleigh-street-thornleigh-nsw-2120-2016076813 
+ Property address: Unit 29_11_19 Thornleigh Street, Thornleigh NSW 2120 
+ guid price: 1000000 
+ bedroom: 3 
+ type: Apartment / Unit / Flat 
+ URL: https://www.domain.com.au/the-penthouse-8-10-park-avenue-waitara-nsw-2077-2015546659 
+ Property address: The Penthouse_8_10 Park Avenue, Waitara NSW 2077 
+ guid price: 1000000 
+ bedroom: 3 
+ type: Apartment / Unit / Flat 
+ URL: https://www.domain.com.au/16-16-10-gilroy-road-turramurra-nsw-2074-2015552637 
+ Property address: 16_16_10 Gilroy road, Turramurra NSW 2074 
+ guid price: 1000000 
+ bedroom: 2 
+ type: New Apartments / Off the Plan 
+ URL: https://www.domain.com.au/102-117-119-pacific-hwy-hornsby-nsw-2077-2015732265 
+ Property address: 102_117_119 Pacific Hwy, Hornsby NSW 2077 
+ guid price: 1000000 
+ bedroom: 3 
+ type: New Apartments / Off the Plan 
+ URL: https://www.domain.com.au/102-117-pacific-hwy-hornsby-nsw-2077-2015977793 
+ Property address: 102_117 Pacific HWY, Hornsby NSW 2077 
+ guid price: 1000000 
+ bedroom: 3 
+ type: Apartment / Unit / Flat 
+ URL: https://www.domain.com.au/42-18-22-lords-ave-asquith-nsw-2077-2015991009 
+ Property address: 42_18_22 Lords Ave, Asquith NSW 2077 
+ guid price: 1000000 
+ bedroom: 3 
+ type: Apartment / Unit / Flat 
+ URL: https://www.domain.com.au/44-18-22-lords-ave-asquith-nsw-2077-2015991031 
+ Property address: 44_18_22 Lords Ave, Asquith NSW 2077 
+ guid price: 1000000 
+ bedroom: 3 
+ type: Apartment / Unit / Flat 
+ URL: https://www.domain.com.au/87-18-22-lords-ave-asquith-nsw-2077-2015991055 
+ Property address: 87_18_22 Lords Ave, Asquith NSW 2077 
+ guid price: 1000000 
+ bedroom: 3 
+ type: Apartment / Unit / Flat 
+ URL: https://www.domain.com.au/5-7-11-webb-avenue-hornsby-nsw-2077-2016007833 
+ Property address: 5_7_11 Webb Avenue, Hornsby NSW 2077 
+ guid price: 1000000 
+ bedroom: 3 
+ type: Townhouse 
+ URL: https://www.domain.com.au/asquith-nsw-2077-2014002539 
+ Property address: Asquith NSW 2077 
+ guid price: 1000000 
+ bedroom: 1 
+ type: New Apartments / Off the Plan 
+ URL: https://www.domain.com.au/21-51-53a-balmoral-st-waitara-nsw-2077-2016058942 
+ Property address: 21_51_53a Balmoral st, Waitara NSW 2077 
+ guid price: 1000000 
+ bedroom: 3 
+ type: Apartment / Unit / Flat 
+ URL: https://www.domain.com.au/4-51-53a-balmoral-st-waitara-nsw-2077-2016058858 
+ Property address: 4_51_53a Balmoral st, Waitara NSW 2077 
+ guid price: 1000000 
+ bedroom: 3 
+ type: Apartment / Unit / Flat 
+ URL: https://www.domain.com.au/2-cypress-street-normanhurst-nsw-2076-2016088443 
+ Property address: 2 Cypress Street, Normanhurst NSW 2076 
+ guid price: 1100000 
+ bedroom: 3 
+ type: House 
+ URL: https://www.domain.com.au/10-frith-avenue-normanhurst-nsw-2076-2014749731 
+ Property address: 10 Frith Avenue, Normanhurst NSW 2076 
+ guid price: 1100000 
+ bedroom: 3 
+ type: House 
+ URL: https://www.domain.com.au/9-jamieson-way-thornleigh-nsw-2120-2016060853 
+ Property address: 9 Jamieson Way, Thornleigh NSW 2120 
+ guid price: 1100000 
+ bedroom: 3 
+ type: Townhouse 
+ URL: https://www.domain.com.au/212-1454-pacific-highway-turramurra-nsw-2074-2016002338 
+ Property address: 212_1454 Pacific Highway, Turramurra NSW 2074 
+ guid price: 1100000 
+ bedroom: 2 
+ type: Apartment / Unit / Flat 
+ URL: https://www.domain.com.au/15c-lodge-street-hornsby-nsw-2077-2016044052 
+ Property address: 15C Lodge Street, Hornsby NSW 2077 
+ guid price: 1100000 
+ bedroom: 4 
+ type: House 
+ URL: https://www.domain.com.au/25-ravenhill-road-turramurra-nsw-2074-2016023108 
+ Property address: 25 Ravenhill Road, Turramurra NSW 2074 
+ guid price: 1100000 
+ bedroom: 5 
+ type: House 
+ URL: https://www.domain.com.au/407-1454-pacific-highway-turramurra-nsw-2074-2015994303 
+ Property address: 407_1454 Pacific  Highway, Turramurra NSW 2074 
+ guid price: 1100000 
+ bedroom: 2 
+ type: Apartment / Unit / Flat 
+ URL: https://www.domain.com.au/2-lovett-street-thornleigh-nsw-2120-2016093476 
+ Property address: 2 Lovett Street, Thornleigh NSW 2120 
+ guid price: 1100000 
+ bedroom: 3 
+ type: House 
+ URL: https://www.domain.com.au/20-kerrie-place-hornsby-nsw-2077-2016071968 
+ Property address: 20 Kerrie Place, Hornsby NSW 2077 
+ guid price: 1100000 
+ bedroom: 3 
+ type: House 
+ URL: https://www.domain.com.au/40-rosemead-road-hornsby-nsw-2077-2016072077 
+ Property address: 40 Rosemead Road, Hornsby NSW 2077 
+ guid price: 1100000 
+ bedroom: 4 
+ type: House 
+ URL: https://www.domain.com.au/99-old-berowra-road-hornsby-nsw-2077-2016048485 
+ Property address: 99 Old Berowra Road, Hornsby NSW 2077 
+ guid price: 1100000 
+ bedroom: 2 
+ type: House 
+ URL: https://www.domain.com.au/thornleigh-nsw-2120-2014409046 
+ Property address: Thornleigh NSW 2120 
+ guid price: 1100000 
+ bedroom: 3 
+ type: House 
+ URL: https://www.domain.com.au/the-penthouse-8-10-park-avenue-waitara-nsw-2077-2015546659 
+ Property address: The Penthouse_8_10 Park Avenue, Waitara NSW 2077 
+ guid price: 1100000 
+ bedroom: 3 
+ type: Apartment / Unit / Flat 
+ URL: https://www.domain.com.au/4-406-bobbin-head-road-north-turramurra-nsw-2074-2016088340 
+ Property address: 4_406 Bobbin Head Road, North Turramurra NSW 2074 
+ guid price: 1100000 
+ bedroom: 3 
+ type: Apartment / Unit / Flat 
+ URL: https://www.domain.com.au/475-477-pacific-highway-asquith-nsw-2077-2014465767 
+ Property address: 475_477 Pacific  Highway, Asquith NSW 2077 
+ guid price: 1100000 
+ bedroom: 3 
+ type: House 
+ URL: https://www.domain.com.au/lot-101-117-119-pacific-highway-hornsby-nsw-2077-2015824724 
+ Property address: Lot 101_117_119 Pacific Highway, Hornsby NSW 2077 
+ guid price: 1100000 
+ bedroom: 3 
+ type: Apartment / Unit / Flat 
+ URL: https://www.domain.com.au/102-117-119-pacific-hwy-hornsby-nsw-2077-2015732265 
+ Property address: 102_117_119 Pacific Hwy, Hornsby NSW 2077 
+ guid price: 1100000 
+ bedroom: 3 
+ type: New Apartments / Off the Plan 
+ URL: https://www.domain.com.au/102-117-pacific-hwy-hornsby-nsw-2077-2015977793 
+ Property address: 102_117 Pacific HWY, Hornsby NSW 2077 
+ guid price: 1100000 
+ bedroom: 3 
+ type: Apartment / Unit / Flat 
+ URL: https://www.domain.com.au/asquith-nsw-2077-2014002539 
+ Property address: Asquith NSW 2077 
+ guid price: 1100000 
+ bedroom: 1 
+ type: New Apartments / Off the Plan 
