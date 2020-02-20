@@ -66,7 +66,7 @@ for i in range (_min,_max,_inc):
             price = (_end_price + _start_price) / 2 
 
             
-            _resultContent.append({"URL":url,"address":add, "price":price, "beds":beds, "type":propertyType})  
+            _resultContent.append({"URL":propertyurl,"address":add, "price":price, "beds":beds, "type":propertyType})  
 
             # result = "\n URL: {} \n Property address: {} \n guid price: {} \n bedroom: {} \n type: {} ".format(propertyurl,add,price,beds,propertyType) 
 
