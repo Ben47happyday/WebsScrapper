@@ -6,8 +6,8 @@ import json
 import re 
 
 
-_min = 1000000
-_max = 1200000
+_min = 900000
+_max = 2200000
 _inc = 100000
 
 _page = 1
@@ -17,8 +17,8 @@ _resultContent = []
 
 for i in range (_min,_max,_inc):
 
-    _start_price = i - _inc
-    _end_price = i 
+    _start_price = i
+    _end_price = i + _inc
     _page_end = False 
     _page = 1
 
@@ -26,20 +26,18 @@ for i in range (_min,_max,_inc):
 
         url = f"https://www.domain.com.au/sale/{_suburb}-nsw-2076/?price={_start_price}-{_end_price}&enablemobilemap=1&page={_page}"
 
-     
-        
         response = requests.get(url)
 
+        #break while loop if response return 400 
         if response.status_code == 400:
             _page_end = True
             print("response status {}".format(response.status_code)) 
             break
 
-
-
         soup = BeautifulSoup(response.text,"html.parser")
 
         tags = soup.findAll("link", {"itemprop":"url"})
+
         if tags == []:
             break
         
@@ -64,9 +62,17 @@ for i in range (_min,_max,_inc):
             propertyType = propertyjson["propertyType"]
             #price = propertyjson["listingsMap"][f"{p_id}"]["listingModel"]["price"]
             price = (_end_price + _start_price) / 2 
+            baths = propertyjson["listingSummary"]["baths"]
+            try:
+                parking = propertyjson["listingSummary"]["parking"]
+            except:
+                parking = ""
+            try:
+                Nextinspection = propertyjson["inspection"]["inspectionTimes"][0]
+            except:
+                Nextinspection = ""
 
-            
-            _resultContent.append({"URL":propertyurl,"address":add, "price":price, "beds":beds, "type":propertyType})  
+            _resultContent.append({"URL":propertyurl,"address":add, "price":price, "beds":beds, "baths":baths, "parking":parking, "type":propertyType, "Next Inspection":Nextinspection})  
 
             # result = "\n URL: {} \n Property address: {} \n guid price: {} \n bedroom: {} \n type: {} ".format(propertyurl,add,price,beds,propertyType) 
 
