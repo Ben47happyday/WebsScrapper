@@ -1,268 +1,3444 @@
 [
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=900000-1000000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/11-1740-pacific-highway-wahroonga-nsw-2076-2016004220",
         "address": "11_1740 Pacific Highway, Wahroonga NSW 2076",
         "price": 950000.0,
         "beds": 3,
-        "type": "Townhouse"
+        "baths": 2,
+        "parking": 2,
+        "type": "Townhouse",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T14:45:002020-02-22T15:15:00",
+            "openingDateTime": "2020-02-22T14:45:00",
+            "closingDateTime": "2020-02-22T15:15:00",
+            "repeat": false,
+            "time": "2:45pm - 3:15pm"
+        }
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=900000-1000000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/26-26c-osborn-road-normanhurst-nsw-2076-2016007382",
         "address": "26 & 26C Osborn Road, Normanhurst NSW 2076",
         "price": 950000.0,
         "beds": 0,
-        "type": "Vacant land"
+        "baths": 0,
+        "parking": 0,
+        "type": "Vacant land",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:00:002020-02-22T13:30:00",
+            "openingDateTime": "2020-02-22T13:00:00",
+            "closingDateTime": "2020-02-22T13:30:00",
+            "repeat": false,
+            "time": "1:00pm - 1:30pm"
+        }
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=900000-1000000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/37-1-3-eulbertie-avenue-warrawee-nsw-2074-2016084353",
         "address": "37_1_3 Eulbertie Avenue, Warrawee NSW 2074",
         "price": 950000.0,
         "beds": 2,
-        "type": "Apartment / Unit / Flat"
+        "baths": 2,
+        "parking": 1,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:00:002020-02-22T13:30:00",
+            "openingDateTime": "2020-02-22T13:00:00",
+            "closingDateTime": "2020-02-22T13:30:00",
+            "repeat": false,
+            "time": "1:00pm - 1:30pm"
+        }
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=900000-1000000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/19-stewart-avenue-hornsby-nsw-2077-2016075816",
         "address": "19 Stewart Avenue, Hornsby NSW 2077",
         "price": 950000.0,
         "beds": 2,
-        "type": "House"
+        "baths": 1,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:15:002020-02-22T12:45:00",
+            "openingDateTime": "2020-02-22T12:15:00",
+            "closingDateTime": "2020-02-22T12:45:00",
+            "repeat": false,
+            "time": "12:15pm - 12:45pm"
+        }
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=900000-1000000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/turramurra-nsw-2074-2016074887",
         "address": "Turramurra NSW 2074",
         "price": 950000.0,
         "beds": 3,
-        "type": "Apartment / Unit / Flat"
+        "baths": 2,
+        "parking": 2,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": ""
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=900000-1000000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/11-bundanoon-place-hornsby-heights-nsw-2077-2016061149",
         "address": "11 Bundanoon Place, Hornsby Heights NSW 2077",
         "price": 950000.0,
         "beds": 3,
-        "type": "House"
+        "baths": 1,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T10:30:002020-02-22T11:00:00",
+            "openingDateTime": "2020-02-22T10:30:00",
+            "closingDateTime": "2020-02-22T11:00:00",
+            "repeat": false,
+            "time": "10:30am - 11:00am"
+        }
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=900000-1000000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/25-ravenhill-road-turramurra-nsw-2074-2016023108",
         "address": "25 Ravenhill Road, Turramurra NSW 2074",
         "price": 950000.0,
         "beds": 5,
-        "type": "House"
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T10:30:002020-02-22T11:00:00",
+            "openingDateTime": "2020-02-22T10:30:00",
+            "closingDateTime": "2020-02-22T11:00:00",
+            "repeat": false,
+            "time": "10:30am - 11:00am"
+        }
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=900000-1000000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/407-1454-pacific-highway-turramurra-nsw-2074-2015994303",
         "address": "407_1454 Pacific  Highway, Turramurra NSW 2074",
         "price": 950000.0,
         "beds": 2,
-        "type": "Apartment / Unit / Flat"
+        "baths": 2,
+        "parking": 1,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:15:002020-02-22T12:45:00",
+            "openingDateTime": "2020-02-22T12:15:00",
+            "closingDateTime": "2020-02-22T12:45:00",
+            "repeat": false,
+            "time": "12:15pm - 12:45pm"
+        }
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=900000-1000000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/unit-29-11-19-thornleigh-street-thornleigh-nsw-2120-2016076813",
         "address": "Unit 29_11_19 Thornleigh Street, Thornleigh NSW 2120",
         "price": 950000.0,
         "beds": 3,
-        "type": "Apartment / Unit / Flat"
+        "baths": 2,
+        "parking": 2,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:00:002020-02-22T12:30:00",
+            "openingDateTime": "2020-02-22T12:00:00",
+            "closingDateTime": "2020-02-22T12:30:00",
+            "repeat": false,
+            "time": "12:00pm - 12:30pm"
+        }
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=900000-1000000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/the-penthouse-8-10-park-avenue-waitara-nsw-2077-2015546659",
         "address": "The Penthouse_8_10 Park Avenue, Waitara NSW 2077",
         "price": 950000.0,
         "beds": 3,
-        "type": "Apartment / Unit / Flat"
+        "baths": 2,
+        "parking": 2,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": ""
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=900000-1000000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/16-16-10-gilroy-road-turramurra-nsw-2074-2015552637",
         "address": "16_16_10 Gilroy road, Turramurra NSW 2074",
         "price": 950000.0,
         "beds": 2,
-        "type": "New Apartments / Off the Plan"
+        "baths": 2,
+        "parking": 1,
+        "type": "New Apartments / Off the Plan",
+        "Next Inspection": ""
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=900000-1000000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/7-2-galston-road-hornsby-nsw-2077-2016096343",
+        "address": "7_2 Galston Road, Hornsby NSW 2077",
+        "price": 950000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "Townhouse",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/102-117-119-pacific-hwy-hornsby-nsw-2077-2015732265",
         "address": "102_117_119 Pacific Hwy, Hornsby NSW 2077",
         "price": 950000.0,
         "beds": 3,
-        "type": "New Apartments / Off the Plan"
+        "baths": 3,
+        "parking": 2,
+        "type": "New Apartments / Off the Plan",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:00:002020-02-22T11:30:00",
+            "openingDateTime": "2020-02-22T11:00:00",
+            "closingDateTime": "2020-02-22T11:30:00",
+            "repeat": false,
+            "time": "11:00am - 11:30am"
+        }
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=900000-1000000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/102-117-pacific-hwy-hornsby-nsw-2077-2015977793",
         "address": "102_117 Pacific HWY, Hornsby NSW 2077",
         "price": 950000.0,
         "beds": 3,
-        "type": "Apartment / Unit / Flat"
+        "baths": 3,
+        "parking": 2,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": ""
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=900000-1000000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/42-18-22-lords-ave-asquith-nsw-2077-2015991009",
         "address": "42_18_22 Lords Ave, Asquith NSW 2077",
         "price": 950000.0,
         "beds": 3,
-        "type": "Apartment / Unit / Flat"
+        "baths": 2,
+        "parking": 2,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:00:002020-02-22T15:00:00",
+            "openingDateTime": "2020-02-22T11:00:00",
+            "closingDateTime": "2020-02-22T15:00:00",
+            "repeat": false,
+            "time": "11:00am - 3:00pm"
+        }
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=900000-1000000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/44-18-22-lords-ave-asquith-nsw-2077-2015991031",
         "address": "44_18_22 Lords Ave, Asquith NSW 2077",
         "price": 950000.0,
         "beds": 3,
-        "type": "Apartment / Unit / Flat"
+        "baths": 2,
+        "parking": 2,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:00:002020-02-22T15:00:00",
+            "openingDateTime": "2020-02-22T11:00:00",
+            "closingDateTime": "2020-02-22T15:00:00",
+            "repeat": false,
+            "time": "11:00am - 3:00pm"
+        }
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=900000-1000000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/87-18-22-lords-ave-asquith-nsw-2077-2015991055",
         "address": "87_18_22 Lords Ave, Asquith NSW 2077",
         "price": 950000.0,
         "beds": 3,
-        "type": "Apartment / Unit / Flat"
+        "baths": 2,
+        "parking": 2,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:00:002020-02-22T15:00:00",
+            "openingDateTime": "2020-02-22T11:00:00",
+            "closingDateTime": "2020-02-22T15:00:00",
+            "repeat": false,
+            "time": "11:00am - 3:00pm"
+        }
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=900000-1000000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/5-7-11-webb-avenue-hornsby-nsw-2077-2016007833",
         "address": "5_7_11 Webb Avenue, Hornsby NSW 2077",
         "price": 950000.0,
         "beds": 3,
-        "type": "Townhouse"
+        "baths": 2,
+        "parking": 1,
+        "type": "Townhouse",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:00:002020-02-22T13:30:00",
+            "openingDateTime": "2020-02-22T13:00:00",
+            "closingDateTime": "2020-02-22T13:30:00",
+            "repeat": false,
+            "time": "1:00pm - 1:30pm"
+        }
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=900000-1000000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/asquith-nsw-2077-2014002539",
         "address": "Asquith NSW 2077",
         "price": 950000.0,
         "beds": 1,
-        "type": "New Apartments / Off the Plan"
+        "baths": 1,
+        "parking": 1,
+        "type": "New Apartments / Off the Plan",
+        "Next Inspection": ""
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=900000-1000000&enablemobilemap=1&page=1",
-        "address": "21_51_53a Balmoral st, Waitara NSW 2077",
-        "price": 950000.0,
-        "beds": 3,
-        "type": "Apartment / Unit / Flat"
-    },
-    {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=1000000-1100000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/2-cypress-street-normanhurst-nsw-2076-2016088443",
         "address": "2 Cypress Street, Normanhurst NSW 2076",
         "price": 1050000.0,
         "beds": 3,
-        "type": "House"
+        "baths": 1,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T09:00:002020-02-22T09:40:00",
+            "openingDateTime": "2020-02-22T09:00:00",
+            "closingDateTime": "2020-02-22T09:40:00",
+            "repeat": false,
+            "time": "9:00am - 9:40am"
+        }
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=1000000-1100000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/10-frith-avenue-normanhurst-nsw-2076-2014749731",
         "address": "10 Frith Avenue, Normanhurst NSW 2076",
         "price": 1050000.0,
         "beds": 3,
-        "type": "House"
+        "baths": 1,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:00:002020-02-22T12:40:00",
+            "openingDateTime": "2020-02-22T12:00:00",
+            "closingDateTime": "2020-02-22T12:40:00",
+            "repeat": false,
+            "time": "12:00pm - 12:40pm"
+        }
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=1000000-1100000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/9-jamieson-way-thornleigh-nsw-2120-2016060853",
         "address": "9 Jamieson Way, Thornleigh NSW 2120",
         "price": 1050000.0,
         "beds": 3,
-        "type": "Townhouse"
+        "baths": 2,
+        "parking": 1,
+        "type": "Townhouse",
+        "Next Inspection": ""
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=1000000-1100000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/212-1454-pacific-highway-turramurra-nsw-2074-2016002338",
         "address": "212_1454 Pacific Highway, Turramurra NSW 2074",
         "price": 1050000.0,
         "beds": 2,
-        "type": "Apartment / Unit / Flat"
+        "baths": 2,
+        "parking": 1,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:40:002020-02-22T12:00:00",
+            "openingDateTime": "2020-02-22T11:40:00",
+            "closingDateTime": "2020-02-22T12:00:00",
+            "repeat": false,
+            "time": "11:40am - 12:00pm"
+        }
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=1000000-1100000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/15c-lodge-street-hornsby-nsw-2077-2016044052",
         "address": "15C Lodge Street, Hornsby NSW 2077",
         "price": 1050000.0,
         "beds": 4,
-        "type": "House"
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T09:00:002020-02-22T09:45:00",
+            "openingDateTime": "2020-02-22T09:00:00",
+            "closingDateTime": "2020-02-22T09:45:00",
+            "repeat": false,
+            "time": "9:00am - 9:45am"
+        }
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=1000000-1100000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/25-ravenhill-road-turramurra-nsw-2074-2016023108",
         "address": "25 Ravenhill Road, Turramurra NSW 2074",
         "price": 1050000.0,
         "beds": 5,
-        "type": "House"
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T10:30:002020-02-22T11:00:00",
+            "openingDateTime": "2020-02-22T10:30:00",
+            "closingDateTime": "2020-02-22T11:00:00",
+            "repeat": false,
+            "time": "10:30am - 11:00am"
+        }
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=1000000-1100000&enablemobilemap=1&page=1",
-        "address": "407_1454 Pacific  Highway, Turramurra NSW 2074",
-        "price": 1050000.0,
-        "beds": 2,
-        "type": "Apartment / Unit / Flat"
-    },
-    {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=1000000-1100000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/2-lovett-street-thornleigh-nsw-2120-2016093476",
         "address": "2 Lovett Street, Thornleigh NSW 2120",
         "price": 1050000.0,
         "beds": 3,
-        "type": "House"
+        "baths": 1,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:15:002020-02-22T11:45:00",
+            "openingDateTime": "2020-02-22T11:15:00",
+            "closingDateTime": "2020-02-22T11:45:00",
+            "repeat": false,
+            "time": "11:15am - 11:45am"
+        }
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=1000000-1100000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/20-kerrie-place-hornsby-nsw-2077-2016071968",
         "address": "20 Kerrie Place, Hornsby NSW 2077",
         "price": 1050000.0,
         "beds": 3,
-        "type": "House"
+        "baths": 2,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:30:002020-02-22T14:00:00",
+            "openingDateTime": "2020-02-22T13:30:00",
+            "closingDateTime": "2020-02-22T14:00:00",
+            "repeat": false,
+            "time": "1:30pm - 2:00pm"
+        }
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=1000000-1100000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/40-rosemead-road-hornsby-nsw-2077-2016072077",
         "address": "40 Rosemead Road, Hornsby NSW 2077",
         "price": 1050000.0,
         "beds": 4,
-        "type": "House"
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:45:002020-02-22T14:15:00",
+            "openingDateTime": "2020-02-22T13:45:00",
+            "closingDateTime": "2020-02-22T14:15:00",
+            "repeat": false,
+            "time": "1:45pm - 2:15pm"
+        }
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=1000000-1100000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/99-old-berowra-road-hornsby-nsw-2077-2016048485",
         "address": "99 Old Berowra Road, Hornsby NSW 2077",
         "price": 1050000.0,
         "beds": 2,
-        "type": "House"
+        "baths": 2,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T14:15:002020-02-22T14:45:00",
+            "openingDateTime": "2020-02-22T14:15:00",
+            "closingDateTime": "2020-02-22T14:45:00",
+            "repeat": false,
+            "time": "2:15pm - 2:45pm"
+        }
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=1000000-1100000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/thornleigh-nsw-2120-2014409046",
         "address": "Thornleigh NSW 2120",
         "price": 1050000.0,
         "beds": 3,
-        "type": "House"
+        "baths": 2,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": ""
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=1000000-1100000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/the-penthouse-8-10-park-avenue-waitara-nsw-2077-2015546659",
         "address": "The Penthouse_8_10 Park Avenue, Waitara NSW 2077",
         "price": 1050000.0,
         "beds": 3,
-        "type": "Apartment / Unit / Flat"
+        "baths": 2,
+        "parking": 2,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": ""
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=1000000-1100000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/4-406-bobbin-head-road-north-turramurra-nsw-2074-2016088340",
         "address": "4_406 Bobbin Head Road, North Turramurra NSW 2074",
         "price": 1050000.0,
         "beds": 3,
-        "type": "Apartment / Unit / Flat"
+        "baths": 2,
+        "parking": 2,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": ""
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=1000000-1100000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/7-2-galston-road-hornsby-nsw-2077-2016096343",
+        "address": "7_2 Galston Road, Hornsby NSW 2077",
+        "price": 1050000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "Townhouse",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/475-477-pacific-highway-asquith-nsw-2077-2014465767",
         "address": "475_477 Pacific  Highway, Asquith NSW 2077",
         "price": 1050000.0,
         "beds": 3,
-        "type": "House"
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": ""
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=1000000-1100000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/lot-101-117-119-pacific-highway-hornsby-nsw-2077-2015824724",
         "address": "Lot 101_117_119 Pacific Highway, Hornsby NSW 2077",
         "price": 1050000.0,
         "beds": 3,
-        "type": "Apartment / Unit / Flat"
+        "baths": 3,
+        "parking": 1,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": ""
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=1000000-1100000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/102-117-119-pacific-hwy-hornsby-nsw-2077-2015732265",
         "address": "102_117_119 Pacific Hwy, Hornsby NSW 2077",
         "price": 1050000.0,
         "beds": 3,
-        "type": "New Apartments / Off the Plan"
+        "baths": 3,
+        "parking": 2,
+        "type": "New Apartments / Off the Plan",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:00:002020-02-22T11:30:00",
+            "openingDateTime": "2020-02-22T11:00:00",
+            "closingDateTime": "2020-02-22T11:30:00",
+            "repeat": false,
+            "time": "11:00am - 11:30am"
+        }
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=1000000-1100000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/102-117-pacific-hwy-hornsby-nsw-2077-2015977793",
         "address": "102_117 Pacific HWY, Hornsby NSW 2077",
         "price": 1050000.0,
         "beds": 3,
-        "type": "Apartment / Unit / Flat"
+        "baths": 3,
+        "parking": 2,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": ""
     },
     {
-        "URL": "https://www.domain.com.au/sale/wahroonga-nsw-2076/?price=1000000-1100000&enablemobilemap=1&page=1",
+        "URL": "https://www.domain.com.au/asquith-nsw-2077-2014002539",
         "address": "Asquith NSW 2077",
         "price": 1050000.0,
         "beds": 1,
-        "type": "New Apartments / Off the Plan"
+        "baths": 1,
+        "parking": 1,
+        "type": "New Apartments / Off the Plan",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/288-kissing-point-road-turramurra-nsw-2074-2016093678",
+        "address": "288 Kissing Point Road, Turramurra NSW 2074",
+        "price": 1150000.0,
+        "beds": 3,
+        "baths": 1,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:00:002020-02-22T12:30:00",
+            "openingDateTime": "2020-02-22T12:00:00",
+            "closingDateTime": "2020-02-22T12:30:00",
+            "repeat": false,
+            "time": "12:00pm - 12:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/48-station-street-thornleigh-nsw-2120-2016093699",
+        "address": "48 Station Street, Thornleigh NSW 2120",
+        "price": 1150000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T10:00:002020-02-22T10:45:00",
+            "openingDateTime": "2020-02-22T10:00:00",
+            "closingDateTime": "2020-02-22T10:45:00",
+            "repeat": false,
+            "time": "10:00am - 10:45am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/34-wall-avenue-asquith-nsw-2077-2016033552",
+        "address": "34 Wall Avenue, Asquith NSW 2077",
+        "price": 1150000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T14:00:002020-02-22T14:45:00",
+            "openingDateTime": "2020-02-22T14:00:00",
+            "closingDateTime": "2020-02-22T14:45:00",
+            "repeat": false,
+            "time": "2:00pm - 2:45pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/16-yannina-avenue-hornsby-heights-nsw-2077-2016042037",
+        "address": "16 Yannina Avenue, Hornsby Heights NSW 2077",
+        "price": 1150000.0,
+        "beds": 4,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T14:00:002020-02-22T14:45:00",
+            "openingDateTime": "2020-02-22T14:00:00",
+            "closingDateTime": "2020-02-22T14:45:00",
+            "repeat": false,
+            "time": "2:00pm - 2:45pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/76-laurence-street-pennant-hills-nsw-2120-2016027122",
+        "address": "76 Laurence Street, Pennant Hills NSW 2120",
+        "price": 1150000.0,
+        "beds": 5,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/15c-lodge-street-hornsby-nsw-2077-2016044052",
+        "address": "15C Lodge Street, Hornsby NSW 2077",
+        "price": 1150000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T09:00:002020-02-22T09:45:00",
+            "openingDateTime": "2020-02-22T09:00:00",
+            "closingDateTime": "2020-02-22T09:45:00",
+            "repeat": false,
+            "time": "9:00am - 9:45am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/25-ravenhill-road-turramurra-nsw-2074-2016023108",
+        "address": "25 Ravenhill Road, Turramurra NSW 2074",
+        "price": 1150000.0,
+        "beds": 5,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T10:30:002020-02-22T11:00:00",
+            "openingDateTime": "2020-02-22T10:30:00",
+            "closingDateTime": "2020-02-22T11:00:00",
+            "repeat": false,
+            "time": "10:30am - 11:00am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/2-lovett-street-thornleigh-nsw-2120-2016093476",
+        "address": "2 Lovett Street, Thornleigh NSW 2120",
+        "price": 1150000.0,
+        "beds": 3,
+        "baths": 1,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:15:002020-02-22T11:45:00",
+            "openingDateTime": "2020-02-22T11:15:00",
+            "closingDateTime": "2020-02-22T11:45:00",
+            "repeat": false,
+            "time": "11:15am - 11:45am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/47-ida-street-hornsby-nsw-2077-2016070755",
+        "address": "47 Ida Street, Hornsby NSW 2077",
+        "price": 1150000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:45:002020-02-22T13:15:00",
+            "openingDateTime": "2020-02-22T12:45:00",
+            "closingDateTime": "2020-02-22T13:15:00",
+            "repeat": false,
+            "time": "12:45pm - 1:15pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/901-23-29-hunter-street-hornsby-nsw-2077-2016059174",
+        "address": "901_23_29 Hunter Street, Hornsby NSW 2077",
+        "price": 1150000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T15:00:002020-02-22T15:30:00",
+            "openingDateTime": "2020-02-22T15:00:00",
+            "closingDateTime": "2020-02-22T15:30:00",
+            "repeat": false,
+            "time": "3:00pm - 3:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/6-10-10a-albion-street-pennant-hills-nsw-2120-2016061751",
+        "address": "6_10_10A Albion Street, Pennant Hills NSW 2120",
+        "price": 1150000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "Townhouse",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:30:002020-02-22T12:30:00",
+            "openingDateTime": "2020-02-22T11:30:00",
+            "closingDateTime": "2020-02-22T12:30:00",
+            "repeat": false,
+            "time": "11:30am - 12:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/21-clarinda-street-hornsby-nsw-2077-2016071513",
+        "address": "21 Clarinda Street, Hornsby NSW 2077",
+        "price": 1150000.0,
+        "beds": 4,
+        "baths": 1,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:00:002020-02-22T12:30:00",
+            "openingDateTime": "2020-02-22T12:00:00",
+            "closingDateTime": "2020-02-22T12:30:00",
+            "repeat": false,
+            "time": "12:00pm - 12:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/20-kerrie-place-hornsby-nsw-2077-2016071968",
+        "address": "20 Kerrie Place, Hornsby NSW 2077",
+        "price": 1150000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:30:002020-02-22T14:00:00",
+            "openingDateTime": "2020-02-22T13:30:00",
+            "closingDateTime": "2020-02-22T14:00:00",
+            "repeat": false,
+            "time": "1:30pm - 2:00pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/40-rosemead-road-hornsby-nsw-2077-2016072077",
+        "address": "40 Rosemead Road, Hornsby NSW 2077",
+        "price": 1150000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:45:002020-02-22T14:15:00",
+            "openingDateTime": "2020-02-22T13:45:00",
+            "closingDateTime": "2020-02-22T14:15:00",
+            "repeat": false,
+            "time": "1:45pm - 2:15pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/99-old-berowra-road-hornsby-nsw-2077-2016048485",
+        "address": "99 Old Berowra Road, Hornsby NSW 2077",
+        "price": 1150000.0,
+        "beds": 2,
+        "baths": 2,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T14:15:002020-02-22T14:45:00",
+            "openingDateTime": "2020-02-22T14:15:00",
+            "closingDateTime": "2020-02-22T14:45:00",
+            "repeat": false,
+            "time": "2:15pm - 2:45pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/4-406-bobbin-head-road-north-turramurra-nsw-2074-2016088340",
+        "address": "4_406 Bobbin Head Road, North Turramurra NSW 2074",
+        "price": 1150000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/7-2-galston-road-hornsby-nsw-2077-2016096343",
+        "address": "7_2 Galston Road, Hornsby NSW 2077",
+        "price": 1150000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "Townhouse",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/102-117-pacific-hwy-hornsby-nsw-2077-2015903199",
+        "address": "102_117 Pacific Hwy, Hornsby NSW 2077",
+        "price": 1150000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/28-sefton-rd-thornleigh-nsw-2120-2015696556",
+        "address": "28 Sefton Rd, Thornleigh NSW 2120",
+        "price": 1150000.0,
+        "beds": 2,
+        "baths": 1,
+        "parking": 3,
+        "type": "House",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/65a-roland-avenue-wahroonga-nsw-2076-2016093231",
+        "address": "65A Roland  Avenue, Wahroonga NSW 2076",
+        "price": 1250000.0,
+        "beds": 0,
+        "baths": 0,
+        "parking": "",
+        "type": "Vacant land",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:30:002020-02-22T13:00:00",
+            "openingDateTime": "2020-02-22T12:30:00",
+            "closingDateTime": "2020-02-22T13:00:00",
+            "repeat": false,
+            "time": "12:30pm - 1:00pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/russell-ave-wahroonga-nsw-2076-2016081779",
+        "address": "Russell Ave, Wahroonga NSW 2076",
+        "price": 1250000.0,
+        "beds": 4,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/233-somerville-road-hornsby-heights-nsw-2077-2016092464",
+        "address": "233 Somerville Road, Hornsby Heights NSW 2077",
+        "price": 1250000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:00:002020-02-22T12:45:00",
+            "openingDateTime": "2020-02-22T12:00:00",
+            "closingDateTime": "2020-02-22T12:45:00",
+            "repeat": false,
+            "time": "12:00pm - 12:45pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/288-kissing-point-road-turramurra-nsw-2074-2016093678",
+        "address": "288 Kissing Point Road, Turramurra NSW 2074",
+        "price": 1250000.0,
+        "beds": 3,
+        "baths": 1,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:00:002020-02-22T12:30:00",
+            "openingDateTime": "2020-02-22T12:00:00",
+            "closingDateTime": "2020-02-22T12:30:00",
+            "repeat": false,
+            "time": "12:00pm - 12:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/48-station-street-thornleigh-nsw-2120-2016093699",
+        "address": "48 Station Street, Thornleigh NSW 2120",
+        "price": 1250000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T10:00:002020-02-22T10:45:00",
+            "openingDateTime": "2020-02-22T10:00:00",
+            "closingDateTime": "2020-02-22T10:45:00",
+            "repeat": false,
+            "time": "10:00am - 10:45am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/528-1454-pacific-highway-turramurra-nsw-2074-2016067388",
+        "address": "528_1454 Pacific Highway, Turramurra NSW 2074",
+        "price": 1250000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:00:002020-02-22T11:30:00",
+            "openingDateTime": "2020-02-22T11:00:00",
+            "closingDateTime": "2020-02-22T11:30:00",
+            "repeat": false,
+            "time": "11:00am - 11:30am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/28c-paling-street-thornleigh-nsw-2120-2016003835",
+        "address": "28C Paling Street, Thornleigh NSW 2120",
+        "price": 1250000.0,
+        "beds": 4,
+        "baths": 3,
+        "parking": 3,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:45:002020-02-22T14:15:00",
+            "openingDateTime": "2020-02-22T13:45:00",
+            "closingDateTime": "2020-02-22T14:15:00",
+            "repeat": false,
+            "time": "1:45pm - 2:15pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/27-maxwell-street-turramurra-nsw-2074-2016077011",
+        "address": "27 Maxwell Street, Turramurra NSW 2074",
+        "price": 1250000.0,
+        "beds": 2,
+        "baths": 1,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T14:00:002020-02-22T14:30:00",
+            "openingDateTime": "2020-02-22T14:00:00",
+            "closingDateTime": "2020-02-22T14:30:00",
+            "repeat": false,
+            "time": "2:00pm - 2:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/20-coora-road-westleigh-nsw-2120-2016059187",
+        "address": "20 Coora Road, Westleigh NSW 2120",
+        "price": 1250000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:00:002020-02-22T13:30:00",
+            "openingDateTime": "2020-02-22T13:00:00",
+            "closingDateTime": "2020-02-22T13:30:00",
+            "repeat": false,
+            "time": "1:00pm - 1:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/34-wall-avenue-asquith-nsw-2077-2016033552",
+        "address": "34 Wall Avenue, Asquith NSW 2077",
+        "price": 1250000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T14:00:002020-02-22T14:45:00",
+            "openingDateTime": "2020-02-22T14:00:00",
+            "closingDateTime": "2020-02-22T14:45:00",
+            "repeat": false,
+            "time": "2:00pm - 2:45pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/7a-lodge-street-hornsby-nsw-2077-2016057833",
+        "address": "7A Lodge Street, Hornsby NSW 2077",
+        "price": 1250000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 0,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T10:30:002020-02-22T11:00:00",
+            "openingDateTime": "2020-02-22T10:30:00",
+            "closingDateTime": "2020-02-22T11:00:00",
+            "repeat": false,
+            "time": "10:30am - 11:00am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/16-yannina-avenue-hornsby-heights-nsw-2077-2016042037",
+        "address": "16 Yannina Avenue, Hornsby Heights NSW 2077",
+        "price": 1250000.0,
+        "beds": 4,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T14:00:002020-02-22T14:45:00",
+            "openingDateTime": "2020-02-22T14:00:00",
+            "closingDateTime": "2020-02-22T14:45:00",
+            "repeat": false,
+            "time": "2:00pm - 2:45pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/76-laurence-street-pennant-hills-nsw-2120-2016027122",
+        "address": "76 Laurence Street, Pennant Hills NSW 2120",
+        "price": 1250000.0,
+        "beds": 5,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/15c-lodge-street-hornsby-nsw-2077-2016044052",
+        "address": "15C Lodge Street, Hornsby NSW 2077",
+        "price": 1250000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T09:00:002020-02-22T09:45:00",
+            "openingDateTime": "2020-02-22T09:00:00",
+            "closingDateTime": "2020-02-22T09:45:00",
+            "repeat": false,
+            "time": "9:00am - 9:45am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/29-manor-road-hornsby-nsw-2077-2016060268",
+        "address": "29 Manor Road, Hornsby NSW 2077",
+        "price": 1250000.0,
+        "beds": 4,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T14:00:002020-02-22T14:30:00",
+            "openingDateTime": "2020-02-22T14:00:00",
+            "closingDateTime": "2020-02-22T14:30:00",
+            "repeat": false,
+            "time": "2:00pm - 2:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/39-coora-road-westleigh-nsw-2120-2016035382",
+        "address": "39 Coora Road, Westleigh NSW 2120",
+        "price": 1250000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T10:30:002020-02-22T11:00:00",
+            "openingDateTime": "2020-02-22T10:30:00",
+            "closingDateTime": "2020-02-22T11:00:00",
+            "repeat": false,
+            "time": "10:30am - 11:00am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/47-ida-street-hornsby-nsw-2077-2016070755",
+        "address": "47 Ida Street, Hornsby NSW 2077",
+        "price": 1250000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:45:002020-02-22T13:15:00",
+            "openingDateTime": "2020-02-22T12:45:00",
+            "closingDateTime": "2020-02-22T13:15:00",
+            "repeat": false,
+            "time": "12:45pm - 1:15pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/901-23-29-hunter-street-hornsby-nsw-2077-2016059174",
+        "address": "901_23_29 Hunter Street, Hornsby NSW 2077",
+        "price": 1250000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T15:00:002020-02-22T15:30:00",
+            "openingDateTime": "2020-02-22T15:00:00",
+            "closingDateTime": "2020-02-22T15:30:00",
+            "repeat": false,
+            "time": "3:00pm - 3:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/21-clarinda-street-hornsby-nsw-2077-2016071513",
+        "address": "21 Clarinda Street, Hornsby NSW 2077",
+        "price": 1250000.0,
+        "beds": 4,
+        "baths": 1,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:00:002020-02-22T12:30:00",
+            "openingDateTime": "2020-02-22T12:00:00",
+            "closingDateTime": "2020-02-22T12:30:00",
+            "repeat": false,
+            "time": "12:00pm - 12:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/20-kerrie-place-hornsby-nsw-2077-2016071968",
+        "address": "20 Kerrie Place, Hornsby NSW 2077",
+        "price": 1250000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:30:002020-02-22T14:00:00",
+            "openingDateTime": "2020-02-22T13:30:00",
+            "closingDateTime": "2020-02-22T14:00:00",
+            "repeat": false,
+            "time": "1:30pm - 2:00pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/65a-roland-avenue-wahroonga-nsw-2076-2016093231",
+        "address": "65A Roland  Avenue, Wahroonga NSW 2076",
+        "price": 1350000.0,
+        "beds": 0,
+        "baths": 0,
+        "parking": "",
+        "type": "Vacant land",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:30:002020-02-22T13:00:00",
+            "openingDateTime": "2020-02-22T12:30:00",
+            "closingDateTime": "2020-02-22T13:00:00",
+            "repeat": false,
+            "time": "12:30pm - 1:00pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/russell-ave-wahroonga-nsw-2076-2016081779",
+        "address": "Russell Ave, Wahroonga NSW 2076",
+        "price": 1350000.0,
+        "beds": 4,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/21-nepean-avenue-normanhurst-nsw-2076-2016054873",
+        "address": "21 Nepean Avenue, Normanhurst NSW 2076",
+        "price": 1350000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T16:15:002020-02-22T16:45:00",
+            "openingDateTime": "2020-02-22T16:15:00",
+            "closingDateTime": "2020-02-22T16:45:00",
+            "repeat": false,
+            "time": "4:15pm - 4:45pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/233-peats-ferry-road-hornsby-nsw-2077-2016091526",
+        "address": "233 Peats Ferry Road, Hornsby NSW 2077",
+        "price": 1350000.0,
+        "beds": 3,
+        "baths": 1,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:00:002020-02-22T12:45:00",
+            "openingDateTime": "2020-02-22T12:00:00",
+            "closingDateTime": "2020-02-22T12:45:00",
+            "repeat": false,
+            "time": "12:00pm - 12:45pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/82-kooringal-avenue-thornleigh-nsw-2120-2016040181",
+        "address": "82 Kooringal Avenue, Thornleigh NSW 2120",
+        "price": 1350000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Friday",
+            "day": "21",
+            "month": "February",
+            "id": "2020-02-21T16:30:002020-02-21T17:00:00",
+            "openingDateTime": "2020-02-21T16:30:00",
+            "closingDateTime": "2020-02-21T17:00:00",
+            "repeat": false,
+            "time": "4:30pm - 5:00pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/9-armen-way-hornsby-heights-nsw-2077-2014723485",
+        "address": "9 Armen Way, Hornsby Heights NSW 2077",
+        "price": 1350000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:30:002020-02-22T12:00:00",
+            "openingDateTime": "2020-02-22T11:30:00",
+            "closingDateTime": "2020-02-22T12:00:00",
+            "repeat": false,
+            "time": "11:30am - 12:00pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/31-pretoria-parade-hornsby-nsw-2077-2016058160",
+        "address": "31 Pretoria Parade, Hornsby NSW 2077",
+        "price": 1350000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:00:002020-02-22T12:40:00",
+            "openingDateTime": "2020-02-22T12:00:00",
+            "closingDateTime": "2020-02-22T12:40:00",
+            "repeat": false,
+            "time": "12:00pm - 12:40pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/528-1454-pacific-highway-turramurra-nsw-2074-2016067388",
+        "address": "528_1454 Pacific Highway, Turramurra NSW 2074",
+        "price": 1350000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:00:002020-02-22T11:30:00",
+            "openingDateTime": "2020-02-22T11:00:00",
+            "closingDateTime": "2020-02-22T11:30:00",
+            "repeat": false,
+            "time": "11:00am - 11:30am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/28c-paling-street-thornleigh-nsw-2120-2016003835",
+        "address": "28C Paling Street, Thornleigh NSW 2120",
+        "price": 1350000.0,
+        "beds": 4,
+        "baths": 3,
+        "parking": 3,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:45:002020-02-22T14:15:00",
+            "openingDateTime": "2020-02-22T13:45:00",
+            "closingDateTime": "2020-02-22T14:15:00",
+            "repeat": false,
+            "time": "1:45pm - 2:15pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/27-maxwell-street-turramurra-nsw-2074-2016077011",
+        "address": "27 Maxwell Street, Turramurra NSW 2074",
+        "price": 1350000.0,
+        "beds": 2,
+        "baths": 1,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T14:00:002020-02-22T14:30:00",
+            "openingDateTime": "2020-02-22T14:00:00",
+            "closingDateTime": "2020-02-22T14:30:00",
+            "repeat": false,
+            "time": "2:00pm - 2:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/15-manor-road-hornsby-nsw-2077-2016073423",
+        "address": "15 Manor Road, Hornsby NSW 2077",
+        "price": 1350000.0,
+        "beds": 5,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:00:002020-02-22T13:30:00",
+            "openingDateTime": "2020-02-22T13:00:00",
+            "closingDateTime": "2020-02-22T13:30:00",
+            "repeat": false,
+            "time": "1:00pm - 1:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/29-manor-road-hornsby-nsw-2077-2016060268",
+        "address": "29 Manor Road, Hornsby NSW 2077",
+        "price": 1350000.0,
+        "beds": 4,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T14:00:002020-02-22T14:30:00",
+            "openingDateTime": "2020-02-22T14:00:00",
+            "closingDateTime": "2020-02-22T14:30:00",
+            "repeat": false,
+            "time": "2:00pm - 2:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/47-ida-street-hornsby-nsw-2077-2016070755",
+        "address": "47 Ida Street, Hornsby NSW 2077",
+        "price": 1350000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:45:002020-02-22T13:15:00",
+            "openingDateTime": "2020-02-22T12:45:00",
+            "closingDateTime": "2020-02-22T13:15:00",
+            "repeat": false,
+            "time": "12:45pm - 1:15pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/26-handley-avenue-thornleigh-nsw-2120-2014972352",
+        "address": "26 Handley Avenue, Thornleigh NSW 2120",
+        "price": 1350000.0,
+        "beds": 3,
+        "baths": 1,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/19-the-crest-hornsby-heights-nsw-2077-2015297428",
+        "address": "19 THE CREST, Hornsby Heights NSW 2077",
+        "price": 1350000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/26a-hillmont-avenue-thornleigh-nsw-2120-2015813622",
+        "address": "26a Hillmont  Avenue, Thornleigh NSW 2120",
+        "price": 1350000.0,
+        "beds": 4,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/61-kokoda-avenue-wahroonga-nsw-2076-2016060598",
+        "address": "61 Kokoda Avenue, Wahroonga NSW 2076",
+        "price": 1450000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T10:00:002020-02-22T10:30:00",
+            "openingDateTime": "2020-02-22T10:00:00",
+            "closingDateTime": "2020-02-22T10:30:00",
+            "repeat": false,
+            "time": "10:00am - 10:30am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/8-80-84-coonanbarra-road-wahroonga-nsw-2076-2016076566",
+        "address": "8_80_84 Coonanbarra Road, Wahroonga NSW 2076",
+        "price": 1450000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:00:002020-02-22T11:30:00",
+            "openingDateTime": "2020-02-22T11:00:00",
+            "closingDateTime": "2020-02-22T11:30:00",
+            "repeat": false,
+            "time": "11:00am - 11:30am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/33-westbrook-avenue-wahroonga-nsw-2076-2015992384",
+        "address": "33 Westbrook Avenue, Wahroonga NSW 2076",
+        "price": 1450000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "New Apartments / Off the Plan",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/1-12-carden-ave-wahroonga-nsw-2076-2015345784",
+        "address": "1_12 Carden ave , Wahroonga NSW 2076",
+        "price": 1450000.0,
+        "beds": 3,
+        "baths": 3,
+        "parking": 2,
+        "type": "Townhouse",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/russell-ave-wahroonga-nsw-2076-2016081779",
+        "address": "Russell Ave, Wahroonga NSW 2076",
+        "price": 1450000.0,
+        "beds": 4,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/21-nepean-avenue-normanhurst-nsw-2076-2016054873",
+        "address": "21 Nepean Avenue, Normanhurst NSW 2076",
+        "price": 1450000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T16:15:002020-02-22T16:45:00",
+            "openingDateTime": "2020-02-22T16:15:00",
+            "closingDateTime": "2020-02-22T16:45:00",
+            "repeat": false,
+            "time": "4:15pm - 4:45pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/37-barkala-place-westleigh-nsw-2120-2016091117",
+        "address": "37 Barkala Place, Westleigh NSW 2120",
+        "price": 1450000.0,
+        "beds": 4,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T10:15:002020-02-22T10:45:00",
+            "openingDateTime": "2020-02-22T10:15:00",
+            "closingDateTime": "2020-02-22T10:45:00",
+            "repeat": false,
+            "time": "10:15am - 10:45am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/21-mcrae-place-turramurra-nsw-2074-2016094763",
+        "address": "21 McRae Place, Turramurra NSW 2074",
+        "price": 1450000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:00:002020-02-22T11:45:00",
+            "openingDateTime": "2020-02-22T11:00:00",
+            "closingDateTime": "2020-02-22T11:45:00",
+            "repeat": false,
+            "time": "11:00am - 11:45am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/5-tongarra-place-westleigh-nsw-2120-2016059632",
+        "address": "5 Tongarra Place, Westleigh NSW 2120",
+        "price": 1450000.0,
+        "beds": 5,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:00:002020-02-22T11:30:00",
+            "openingDateTime": "2020-02-22T11:00:00",
+            "closingDateTime": "2020-02-22T11:30:00",
+            "repeat": false,
+            "time": "11:00am - 11:30am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/8-may-street-turramurra-nsw-2074-2016077136",
+        "address": "8 May Street, Turramurra NSW 2074",
+        "price": 1450000.0,
+        "beds": 5,
+        "baths": 1,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:00:002020-02-22T11:30:00",
+            "openingDateTime": "2020-02-22T11:00:00",
+            "closingDateTime": "2020-02-22T11:30:00",
+            "repeat": false,
+            "time": "11:00am - 11:30am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/230-quarter-sessions-road-westleigh-nsw-2120-2016059950",
+        "address": "230 Quarter Sessions Road, Westleigh NSW 2120",
+        "price": 1450000.0,
+        "beds": 5,
+        "baths": 4,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T09:30:002020-02-22T10:00:00",
+            "openingDateTime": "2020-02-22T09:30:00",
+            "closingDateTime": "2020-02-22T10:00:00",
+            "repeat": false,
+            "time": "9:30am - 10:00am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/63-burdett-street-hornsby-nsw-2077-2016060569",
+        "address": "63 Burdett Street, Hornsby NSW 2077",
+        "price": 1450000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T16:30:002020-02-22T17:00:00",
+            "openingDateTime": "2020-02-22T16:30:00",
+            "closingDateTime": "2020-02-22T17:00:00",
+            "repeat": false,
+            "time": "4:30pm - 5:00pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/82-kooringal-avenue-thornleigh-nsw-2120-2016040181",
+        "address": "82 Kooringal Avenue, Thornleigh NSW 2120",
+        "price": 1450000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Friday",
+            "day": "21",
+            "month": "February",
+            "id": "2020-02-21T16:30:002020-02-21T17:00:00",
+            "openingDateTime": "2020-02-21T16:30:00",
+            "closingDateTime": "2020-02-21T17:00:00",
+            "repeat": false,
+            "time": "4:30pm - 5:00pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/31-pretoria-parade-hornsby-nsw-2077-2016058160",
+        "address": "31 Pretoria Parade, Hornsby NSW 2077",
+        "price": 1450000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:00:002020-02-22T12:40:00",
+            "openingDateTime": "2020-02-22T12:00:00",
+            "closingDateTime": "2020-02-22T12:40:00",
+            "repeat": false,
+            "time": "12:00pm - 12:40pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/528-1454-pacific-highway-turramurra-nsw-2074-2016067388",
+        "address": "528_1454 Pacific Highway, Turramurra NSW 2074",
+        "price": 1450000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:00:002020-02-22T11:30:00",
+            "openingDateTime": "2020-02-22T11:00:00",
+            "closingDateTime": "2020-02-22T11:30:00",
+            "repeat": false,
+            "time": "11:00am - 11:30am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/8-2-6-womerah-street-turramurra-nsw-2074-2016011832",
+        "address": "8_2_6 Womerah Street, Turramurra NSW 2074",
+        "price": 1450000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "Townhouse",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:00:002020-02-22T11:30:00",
+            "openingDateTime": "2020-02-22T11:00:00",
+            "closingDateTime": "2020-02-22T11:30:00",
+            "repeat": false,
+            "time": "11:00am - 11:30am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/11a-albion-street-pennant-hills-nsw-2120-2016089090",
+        "address": "11A Albion Street, Pennant Hills NSW 2120",
+        "price": 1450000.0,
+        "beds": 5,
+        "baths": 3,
+        "parking": 4,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T10:30:002020-02-22T11:00:00",
+            "openingDateTime": "2020-02-22T10:30:00",
+            "closingDateTime": "2020-02-22T11:00:00",
+            "repeat": false,
+            "time": "10:30am - 11:00am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/34a-northcote-road-hornsby-nsw-2077-2016066301",
+        "address": "34A Northcote Road, Hornsby NSW 2077",
+        "price": 1450000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T14:45:002020-02-22T15:15:00",
+            "openingDateTime": "2020-02-22T14:45:00",
+            "closingDateTime": "2020-02-22T15:15:00",
+            "repeat": false,
+            "time": "2:45pm - 3:15pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/2-northcote-road-hornsby-nsw-2077-2016075343",
+        "address": "2 Northcote Road, Hornsby NSW 2077",
+        "price": 1450000.0,
+        "beds": 4,
+        "baths": 1,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:00:002020-02-22T11:30:00",
+            "openingDateTime": "2020-02-22T11:00:00",
+            "closingDateTime": "2020-02-22T11:30:00",
+            "repeat": false,
+            "time": "11:00am - 11:30am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/99-campbell-drive-wahroonga-nsw-2076-2015995019",
+        "address": "99 Campbell Drive, Wahroonga NSW 2076",
+        "price": 1550000.0,
+        "beds": 5,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:15:002020-02-22T11:45:00",
+            "openingDateTime": "2020-02-22T11:15:00",
+            "closingDateTime": "2020-02-22T11:45:00",
+            "repeat": false,
+            "time": "11:15am - 11:45am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/61-kokoda-avenue-wahroonga-nsw-2076-2016060598",
+        "address": "61 Kokoda Avenue, Wahroonga NSW 2076",
+        "price": 1550000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T10:00:002020-02-22T10:30:00",
+            "openingDateTime": "2020-02-22T10:00:00",
+            "closingDateTime": "2020-02-22T10:30:00",
+            "repeat": false,
+            "time": "10:00am - 10:30am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/8-80-84-coonanbarra-road-wahroonga-nsw-2076-2016076566",
+        "address": "8_80_84 Coonanbarra Road, Wahroonga NSW 2076",
+        "price": 1550000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:00:002020-02-22T11:30:00",
+            "openingDateTime": "2020-02-22T11:00:00",
+            "closingDateTime": "2020-02-22T11:30:00",
+            "repeat": false,
+            "time": "11:00am - 11:30am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/33-westbrook-avenue-wahroonga-nsw-2076-2015992384",
+        "address": "33 Westbrook Avenue, Wahroonga NSW 2076",
+        "price": 1550000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "New Apartments / Off the Plan",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/21-nepean-avenue-normanhurst-nsw-2076-2016054873",
+        "address": "21 Nepean Avenue, Normanhurst NSW 2076",
+        "price": 1550000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T16:15:002020-02-22T16:45:00",
+            "openingDateTime": "2020-02-22T16:15:00",
+            "closingDateTime": "2020-02-22T16:45:00",
+            "repeat": false,
+            "time": "4:15pm - 4:45pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/21-mcrae-place-turramurra-nsw-2074-2016094763",
+        "address": "21 McRae Place, Turramurra NSW 2074",
+        "price": 1550000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:00:002020-02-22T11:45:00",
+            "openingDateTime": "2020-02-22T11:00:00",
+            "closingDateTime": "2020-02-22T11:45:00",
+            "repeat": false,
+            "time": "11:00am - 11:45am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/5-tongarra-place-westleigh-nsw-2120-2016059632",
+        "address": "5 Tongarra Place, Westleigh NSW 2120",
+        "price": 1550000.0,
+        "beds": 5,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:00:002020-02-22T11:30:00",
+            "openingDateTime": "2020-02-22T11:00:00",
+            "closingDateTime": "2020-02-22T11:30:00",
+            "repeat": false,
+            "time": "11:00am - 11:30am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/8-may-street-turramurra-nsw-2074-2016077136",
+        "address": "8 May Street, Turramurra NSW 2074",
+        "price": 1550000.0,
+        "beds": 5,
+        "baths": 1,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:00:002020-02-22T11:30:00",
+            "openingDateTime": "2020-02-22T11:00:00",
+            "closingDateTime": "2020-02-22T11:30:00",
+            "repeat": false,
+            "time": "11:00am - 11:30am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/82-kooringal-avenue-thornleigh-nsw-2120-2016040181",
+        "address": "82 Kooringal Avenue, Thornleigh NSW 2120",
+        "price": 1550000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Friday",
+            "day": "21",
+            "month": "February",
+            "id": "2020-02-21T16:30:002020-02-21T17:00:00",
+            "openingDateTime": "2020-02-21T16:30:00",
+            "closingDateTime": "2020-02-21T17:00:00",
+            "repeat": false,
+            "time": "4:30pm - 5:00pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/45-finlay-road-warrawee-nsw-2074-2016042300",
+        "address": "45 Finlay Road, Warrawee NSW 2074",
+        "price": 1550000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T15:15:002020-02-22T15:45:00",
+            "openingDateTime": "2020-02-22T15:15:00",
+            "closingDateTime": "2020-02-22T15:45:00",
+            "repeat": false,
+            "time": "3:15pm - 3:45pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/1-19-21-eastern-road-turramurra-nsw-2074-2016041986",
+        "address": "1_19_21 Eastern Road, Turramurra NSW 2074",
+        "price": 1550000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "Townhouse",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T10:00:002020-02-22T10:30:00",
+            "openingDateTime": "2020-02-22T10:00:00",
+            "closingDateTime": "2020-02-22T10:30:00",
+            "repeat": false,
+            "time": "10:00am - 10:30am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/30-9-eastern-road-turramurra-nsw-2074-2016011060",
+        "address": "30_9 Eastern Road, Turramurra NSW 2074",
+        "price": 1550000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/2-cutler-close-westleigh-nsw-2120-2016053994",
+        "address": "2 Cutler Close, Westleigh NSW 2120",
+        "price": 1550000.0,
+        "beds": 5,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:00:002020-02-22T11:40:00",
+            "openingDateTime": "2020-02-22T11:00:00",
+            "closingDateTime": "2020-02-22T11:40:00",
+            "repeat": false,
+            "time": "11:00am - 11:40am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/8-2-6-womerah-street-turramurra-nsw-2074-2016011832",
+        "address": "8_2_6 Womerah Street, Turramurra NSW 2074",
+        "price": 1550000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "Townhouse",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:00:002020-02-22T11:30:00",
+            "openingDateTime": "2020-02-22T11:00:00",
+            "closingDateTime": "2020-02-22T11:30:00",
+            "repeat": false,
+            "time": "11:00am - 11:30am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/11a-albion-street-pennant-hills-nsw-2120-2016089090",
+        "address": "11A Albion Street, Pennant Hills NSW 2120",
+        "price": 1550000.0,
+        "beds": 5,
+        "baths": 3,
+        "parking": 4,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T10:30:002020-02-22T11:00:00",
+            "openingDateTime": "2020-02-22T10:30:00",
+            "closingDateTime": "2020-02-22T11:00:00",
+            "repeat": false,
+            "time": "10:30am - 11:00am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/34a-northcote-road-hornsby-nsw-2077-2016066301",
+        "address": "34A Northcote Road, Hornsby NSW 2077",
+        "price": 1550000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T14:45:002020-02-22T15:15:00",
+            "openingDateTime": "2020-02-22T14:45:00",
+            "closingDateTime": "2020-02-22T15:15:00",
+            "repeat": false,
+            "time": "2:45pm - 3:15pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/2-northcote-road-hornsby-nsw-2077-2016075343",
+        "address": "2 Northcote Road, Hornsby NSW 2077",
+        "price": 1550000.0,
+        "beds": 4,
+        "baths": 1,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:00:002020-02-22T11:30:00",
+            "openingDateTime": "2020-02-22T11:00:00",
+            "closingDateTime": "2020-02-22T11:30:00",
+            "repeat": false,
+            "time": "11:00am - 11:30am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/21-9-15-cherry-street-warrawee-nsw-2074-2014438842",
+        "address": "21_9_15 Cherry Street, Warrawee NSW 2074",
+        "price": 1550000.0,
+        "beds": 4,
+        "baths": 3,
+        "parking": 1,
+        "type": "Townhouse",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:00:002020-02-22T13:30:00",
+            "openingDateTime": "2020-02-22T13:00:00",
+            "closingDateTime": "2020-02-22T13:30:00",
+            "repeat": false,
+            "time": "1:00pm - 1:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/1-128-eastern-road-turramurra-nsw-2074-2014576222",
+        "address": "1_128 Eastern Road, Turramurra NSW 2074",
+        "price": 1550000.0,
+        "beds": 3,
+        "baths": 3,
+        "parking": 2,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/99-campbell-drive-wahroonga-nsw-2076-2015995019",
+        "address": "99 Campbell Drive, Wahroonga NSW 2076",
+        "price": 1650000.0,
+        "beds": 5,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:15:002020-02-22T11:45:00",
+            "openingDateTime": "2020-02-22T11:15:00",
+            "closingDateTime": "2020-02-22T11:45:00",
+            "repeat": false,
+            "time": "11:15am - 11:45am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/7-lisa-valley-close-wahroonga-nsw-2076-2016088563",
+        "address": "7 Lisa Valley Close, Wahroonga NSW 2076",
+        "price": 1650000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/132-bobbin-head-road-turramurra-nsw-2074-2016094196",
+        "address": "132 Bobbin Head Road, Turramurra NSW 2074",
+        "price": 1650000.0,
+        "beds": 3,
+        "baths": 1,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T10:00:002020-02-22T10:30:00",
+            "openingDateTime": "2020-02-22T10:00:00",
+            "closingDateTime": "2020-02-22T10:30:00",
+            "repeat": false,
+            "time": "10:00am - 10:30am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/19-apps-avenue-turramurra-nsw-2074-2016095312",
+        "address": "19 Apps Avenue, Turramurra NSW 2074",
+        "price": 1650000.0,
+        "beds": 3,
+        "baths": 1,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:30:002020-02-22T12:15:00",
+            "openingDateTime": "2020-02-22T11:30:00",
+            "closingDateTime": "2020-02-22T12:15:00",
+            "repeat": false,
+            "time": "11:30am - 12:15pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/1c-swan-place-pennant-hills-nsw-2120-2016075818",
+        "address": "1C Swan Place, Pennant Hills NSW 2120",
+        "price": 1650000.0,
+        "beds": 5,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T14:00:002020-02-22T14:30:00",
+            "openingDateTime": "2020-02-22T14:00:00",
+            "closingDateTime": "2020-02-22T14:30:00",
+            "repeat": false,
+            "time": "2:00pm - 2:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/8-19-21-eastern-road-turramurra-nsw-2074-2016042833",
+        "address": "8_19_21 Eastern Road, Turramurra NSW 2074",
+        "price": 1650000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T14:00:002020-02-22T14:30:00",
+            "openingDateTime": "2020-02-22T14:00:00",
+            "closingDateTime": "2020-02-22T14:30:00",
+            "repeat": false,
+            "time": "2:00pm - 2:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/103-dartford-road-thornleigh-nsw-2120-2016057969",
+        "address": "103 Dartford Road, Thornleigh NSW 2120",
+        "price": 1650000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:00:002020-02-22T12:30:00",
+            "openingDateTime": "2020-02-22T12:00:00",
+            "closingDateTime": "2020-02-22T12:30:00",
+            "repeat": false,
+            "time": "12:00pm - 12:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/8-may-street-turramurra-nsw-2074-2016077136",
+        "address": "8 May Street, Turramurra NSW 2074",
+        "price": 1650000.0,
+        "beds": 5,
+        "baths": 1,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:00:002020-02-22T11:30:00",
+            "openingDateTime": "2020-02-22T11:00:00",
+            "closingDateTime": "2020-02-22T11:30:00",
+            "repeat": false,
+            "time": "11:00am - 11:30am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/7-1-3-duff-street-turramurra-nsw-2074-2016010581",
+        "address": "7_1_3 Duff Street, Turramurra NSW 2074",
+        "price": 1650000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:15:002020-02-22T11:45:00",
+            "openingDateTime": "2020-02-22T11:15:00",
+            "closingDateTime": "2020-02-22T11:45:00",
+            "repeat": false,
+            "time": "11:15am - 11:45am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/45-finlay-road-warrawee-nsw-2074-2016042300",
+        "address": "45 Finlay Road, Warrawee NSW 2074",
+        "price": 1650000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T15:15:002020-02-22T15:45:00",
+            "openingDateTime": "2020-02-22T15:15:00",
+            "closingDateTime": "2020-02-22T15:45:00",
+            "repeat": false,
+            "time": "3:15pm - 3:45pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/1-19-21-eastern-road-turramurra-nsw-2074-2016041986",
+        "address": "1_19_21 Eastern Road, Turramurra NSW 2074",
+        "price": 1650000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "Townhouse",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T10:00:002020-02-22T10:30:00",
+            "openingDateTime": "2020-02-22T10:00:00",
+            "closingDateTime": "2020-02-22T10:30:00",
+            "repeat": false,
+            "time": "10:00am - 10:30am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/30-9-eastern-road-turramurra-nsw-2074-2016011060",
+        "address": "30_9 Eastern Road, Turramurra NSW 2074",
+        "price": 1650000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/8-2-6-womerah-street-turramurra-nsw-2074-2016011832",
+        "address": "8_2_6 Womerah Street, Turramurra NSW 2074",
+        "price": 1650000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "Townhouse",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:00:002020-02-22T11:30:00",
+            "openingDateTime": "2020-02-22T11:00:00",
+            "closingDateTime": "2020-02-22T11:30:00",
+            "repeat": false,
+            "time": "11:00am - 11:30am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/11a-albion-street-pennant-hills-nsw-2120-2016089090",
+        "address": "11A Albion Street, Pennant Hills NSW 2120",
+        "price": 1650000.0,
+        "beds": 5,
+        "baths": 3,
+        "parking": 4,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T10:30:002020-02-22T11:00:00",
+            "openingDateTime": "2020-02-22T10:30:00",
+            "closingDateTime": "2020-02-22T11:00:00",
+            "repeat": false,
+            "time": "10:30am - 11:00am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/11-kirkpatrick-street-turramurra-nsw-2074-2016041754",
+        "address": "11 Kirkpatrick Street, Turramurra NSW 2074",
+        "price": 1650000.0,
+        "beds": 5,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:15:002020-02-22T14:00:00",
+            "openingDateTime": "2020-02-22T13:15:00",
+            "closingDateTime": "2020-02-22T14:00:00",
+            "repeat": false,
+            "time": "1:15pm - 2:00pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/2-northcote-road-hornsby-nsw-2077-2016075343",
+        "address": "2 Northcote Road, Hornsby NSW 2077",
+        "price": 1650000.0,
+        "beds": 4,
+        "baths": 1,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:00:002020-02-22T11:30:00",
+            "openingDateTime": "2020-02-22T11:00:00",
+            "closingDateTime": "2020-02-22T11:30:00",
+            "repeat": false,
+            "time": "11:00am - 11:30am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/16-2-6-womerah-street-turramurra-nsw-2074-2015680419",
+        "address": "16_2_6 Womerah Street, Turramurra NSW 2074",
+        "price": 1650000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "Townhouse",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/21-9-15-cherry-street-warrawee-nsw-2074-2014438842",
+        "address": "21_9_15 Cherry Street, Warrawee NSW 2074",
+        "price": 1650000.0,
+        "beds": 4,
+        "baths": 3,
+        "parking": 1,
+        "type": "Townhouse",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:00:002020-02-22T13:30:00",
+            "openingDateTime": "2020-02-22T13:00:00",
+            "closingDateTime": "2020-02-22T13:30:00",
+            "repeat": false,
+            "time": "1:00pm - 1:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/62-greenhaven-drive-pennant-hills-nsw-2120-2016007452",
+        "address": "62 Greenhaven Drive, Pennant Hills NSW 2120",
+        "price": 1650000.0,
+        "beds": 5,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T09:45:002020-02-22T10:15:00",
+            "openingDateTime": "2020-02-22T09:45:00",
+            "closingDateTime": "2020-02-22T10:15:00",
+            "repeat": false,
+            "time": "9:45am - 10:15am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/11-strone-avenue-wahroonga-nsw-2076-2016092009",
+        "address": "11 Strone Avenue, Wahroonga NSW 2076",
+        "price": 1750000.0,
+        "beds": 4,
+        "baths": 4,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T09:30:002020-02-22T10:00:00",
+            "openingDateTime": "2020-02-22T09:30:00",
+            "closingDateTime": "2020-02-22T10:00:00",
+            "repeat": false,
+            "time": "9:30am - 10:00am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/15-chauvel-close-wahroonga-nsw-2076-2016095654",
+        "address": "15 Chauvel Close, Wahroonga NSW 2076",
+        "price": 1750000.0,
+        "beds": 3,
+        "baths": 1,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:30:002020-02-22T14:00:00",
+            "openingDateTime": "2020-02-22T13:30:00",
+            "closingDateTime": "2020-02-22T14:00:00",
+            "repeat": false,
+            "time": "1:30pm - 2:00pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/99-campbell-drive-wahroonga-nsw-2076-2015995019",
+        "address": "99 Campbell Drive, Wahroonga NSW 2076",
+        "price": 1750000.0,
+        "beds": 5,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:15:002020-02-22T11:45:00",
+            "openingDateTime": "2020-02-22T11:15:00",
+            "closingDateTime": "2020-02-22T11:45:00",
+            "repeat": false,
+            "time": "11:15am - 11:45am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/7-lisa-valley-close-wahroonga-nsw-2076-2016088563",
+        "address": "7 Lisa Valley Close, Wahroonga NSW 2076",
+        "price": 1750000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/132-bobbin-head-road-turramurra-nsw-2074-2016094196",
+        "address": "132 Bobbin Head Road, Turramurra NSW 2074",
+        "price": 1750000.0,
+        "beds": 3,
+        "baths": 1,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T10:00:002020-02-22T10:30:00",
+            "openingDateTime": "2020-02-22T10:00:00",
+            "closingDateTime": "2020-02-22T10:30:00",
+            "repeat": false,
+            "time": "10:00am - 10:30am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/19-apps-avenue-turramurra-nsw-2074-2016095312",
+        "address": "19 Apps Avenue, Turramurra NSW 2074",
+        "price": 1750000.0,
+        "beds": 3,
+        "baths": 1,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:30:002020-02-22T12:15:00",
+            "openingDateTime": "2020-02-22T11:30:00",
+            "closingDateTime": "2020-02-22T12:15:00",
+            "repeat": false,
+            "time": "11:30am - 12:15pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/35-clarinda-street-hornsby-nsw-2077-2016061822",
+        "address": "35 Clarinda Street, Hornsby NSW 2077",
+        "price": 1750000.0,
+        "beds": 5,
+        "baths": 2,
+        "parking": 0,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:00:002020-02-22T12:30:00",
+            "openingDateTime": "2020-02-22T12:00:00",
+            "closingDateTime": "2020-02-22T12:30:00",
+            "repeat": false,
+            "time": "12:00pm - 12:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/42-ashburton-avenue-turramurra-nsw-2074-2016077007",
+        "address": "42 Ashburton Avenue, Turramurra NSW 2074",
+        "price": 1750000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:00:002020-02-22T13:30:00",
+            "openingDateTime": "2020-02-22T13:00:00",
+            "closingDateTime": "2020-02-22T13:30:00",
+            "repeat": false,
+            "time": "1:00pm - 1:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/1c-swan-place-pennant-hills-nsw-2120-2016075818",
+        "address": "1C Swan Place, Pennant Hills NSW 2120",
+        "price": 1750000.0,
+        "beds": 5,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T14:00:002020-02-22T14:30:00",
+            "openingDateTime": "2020-02-22T14:00:00",
+            "closingDateTime": "2020-02-22T14:30:00",
+            "repeat": false,
+            "time": "2:00pm - 2:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/8-19-21-eastern-road-turramurra-nsw-2074-2016042833",
+        "address": "8_19_21 Eastern Road, Turramurra NSW 2074",
+        "price": 1750000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T14:00:002020-02-22T14:30:00",
+            "openingDateTime": "2020-02-22T14:00:00",
+            "closingDateTime": "2020-02-22T14:30:00",
+            "repeat": false,
+            "time": "2:00pm - 2:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/103-dartford-road-thornleigh-nsw-2120-2016057969",
+        "address": "103 Dartford Road, Thornleigh NSW 2120",
+        "price": 1750000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:00:002020-02-22T12:30:00",
+            "openingDateTime": "2020-02-22T12:00:00",
+            "closingDateTime": "2020-02-22T12:30:00",
+            "repeat": false,
+            "time": "12:00pm - 12:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/11-kirkpatrick-street-turramurra-nsw-2074-2016041754",
+        "address": "11 Kirkpatrick Street, Turramurra NSW 2074",
+        "price": 1750000.0,
+        "beds": 5,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:15:002020-02-22T14:00:00",
+            "openingDateTime": "2020-02-22T13:15:00",
+            "closingDateTime": "2020-02-22T14:00:00",
+            "repeat": false,
+            "time": "1:15pm - 2:00pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/8-235-bobbin-head-road-turramurra-nsw-2074-2015880695",
+        "address": "8_235 Bobbin Head Road, Turramurra NSW 2074",
+        "price": 1750000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "Apartment / Unit / Flat",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/62-greenhaven-drive-pennant-hills-nsw-2120-2016007452",
+        "address": "62 Greenhaven Drive, Pennant Hills NSW 2120",
+        "price": 1750000.0,
+        "beds": 5,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T09:45:002020-02-22T10:15:00",
+            "openingDateTime": "2020-02-22T09:45:00",
+            "closingDateTime": "2020-02-22T10:15:00",
+            "repeat": false,
+            "time": "9:45am - 10:15am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/hornsby-nsw-2077-2015763090",
+        "address": "Hornsby NSW 2077",
+        "price": 1750000.0,
+        "beds": 4,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/11-strone-avenue-wahroonga-nsw-2076-2016092009",
+        "address": "11 Strone Avenue, Wahroonga NSW 2076",
+        "price": 1850000.0,
+        "beds": 4,
+        "baths": 4,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T09:30:002020-02-22T10:00:00",
+            "openingDateTime": "2020-02-22T09:30:00",
+            "closingDateTime": "2020-02-22T10:00:00",
+            "repeat": false,
+            "time": "9:30am - 10:00am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/15-chauvel-close-wahroonga-nsw-2076-2016095654",
+        "address": "15 Chauvel Close, Wahroonga NSW 2076",
+        "price": 1850000.0,
+        "beds": 3,
+        "baths": 1,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:30:002020-02-22T14:00:00",
+            "openingDateTime": "2020-02-22T13:30:00",
+            "closingDateTime": "2020-02-22T14:00:00",
+            "repeat": false,
+            "time": "1:30pm - 2:00pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/7-lisa-valley-close-wahroonga-nsw-2076-2016088563",
+        "address": "7 Lisa Valley Close, Wahroonga NSW 2076",
+        "price": 1850000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/92-burns-road-wahroonga-nsw-2076-2016050533",
+        "address": "92 Burns Road, Wahroonga NSW 2076",
+        "price": 1850000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/19-apps-avenue-turramurra-nsw-2074-2016095312",
+        "address": "19 Apps Avenue, Turramurra NSW 2074",
+        "price": 1850000.0,
+        "beds": 3,
+        "baths": 1,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T11:30:002020-02-22T12:15:00",
+            "openingDateTime": "2020-02-22T11:30:00",
+            "closingDateTime": "2020-02-22T12:15:00",
+            "repeat": false,
+            "time": "11:30am - 12:15pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/23-browning-road-turramurra-nsw-2074-2016073283",
+        "address": "23 Browning Road, Turramurra NSW 2074",
+        "price": 1850000.0,
+        "beds": 5,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:00:002020-02-22T12:30:00",
+            "openingDateTime": "2020-02-22T12:00:00",
+            "closingDateTime": "2020-02-22T12:30:00",
+            "repeat": false,
+            "time": "12:00pm - 12:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/35-clarinda-street-hornsby-nsw-2077-2016061822",
+        "address": "35 Clarinda Street, Hornsby NSW 2077",
+        "price": 1850000.0,
+        "beds": 5,
+        "baths": 2,
+        "parking": 0,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:00:002020-02-22T12:30:00",
+            "openingDateTime": "2020-02-22T12:00:00",
+            "closingDateTime": "2020-02-22T12:30:00",
+            "repeat": false,
+            "time": "12:00pm - 12:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/42-ashburton-avenue-turramurra-nsw-2074-2016077007",
+        "address": "42 Ashburton Avenue, Turramurra NSW 2074",
+        "price": 1850000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:00:002020-02-22T13:30:00",
+            "openingDateTime": "2020-02-22T13:00:00",
+            "closingDateTime": "2020-02-22T13:30:00",
+            "repeat": false,
+            "time": "1:00pm - 1:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/8-19-21-eastern-road-turramurra-nsw-2074-2016042833",
+        "address": "8_19_21 Eastern Road, Turramurra NSW 2074",
+        "price": 1850000.0,
+        "beds": 3,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T14:00:002020-02-22T14:30:00",
+            "openingDateTime": "2020-02-22T14:00:00",
+            "closingDateTime": "2020-02-22T14:30:00",
+            "repeat": false,
+            "time": "2:00pm - 2:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/103-dartford-road-thornleigh-nsw-2120-2016057969",
+        "address": "103 Dartford Road, Thornleigh NSW 2120",
+        "price": 1850000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:00:002020-02-22T12:30:00",
+            "openingDateTime": "2020-02-22T12:00:00",
+            "closingDateTime": "2020-02-22T12:30:00",
+            "repeat": false,
+            "time": "12:00pm - 12:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/3-7-wonga-wonga-street-turramurra-nsw-2074-2016050171",
+        "address": "3_7 Wonga Wonga Street, Turramurra NSW 2074",
+        "price": 1850000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "Townhouse",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:15:002020-02-22T12:45:00",
+            "openingDateTime": "2020-02-22T12:15:00",
+            "closingDateTime": "2020-02-22T12:45:00",
+            "repeat": false,
+            "time": "12:15pm - 12:45pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/18-charlton-avenue-turramurra-nsw-2074-2016042672",
+        "address": "18 Charlton Avenue, Turramurra NSW 2074",
+        "price": 1850000.0,
+        "beds": 4,
+        "baths": 3,
+        "parking": 3,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T09:30:002020-02-22T22:00:00",
+            "openingDateTime": "2020-02-22T09:30:00",
+            "closingDateTime": "2020-02-22T22:00:00",
+            "repeat": false,
+            "time": "9:30am - 10:00pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/11-kirkpatrick-street-turramurra-nsw-2074-2016041754",
+        "address": "11 Kirkpatrick Street, Turramurra NSW 2074",
+        "price": 1850000.0,
+        "beds": 5,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:15:002020-02-22T14:00:00",
+            "openingDateTime": "2020-02-22T13:15:00",
+            "closingDateTime": "2020-02-22T14:00:00",
+            "repeat": false,
+            "time": "1:15pm - 2:00pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/1-9-15-cherry-street-warrawee-nsw-2074-2015942945",
+        "address": "1_9_15 Cherry Street, Warrawee NSW 2074",
+        "price": 1850000.0,
+        "beds": 4,
+        "baths": 3,
+        "parking": 2,
+        "type": "Townhouse",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:00:002020-02-22T13:30:00",
+            "openingDateTime": "2020-02-22T13:00:00",
+            "closingDateTime": "2020-02-22T13:30:00",
+            "repeat": false,
+            "time": "1:00pm - 1:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/10-6-finlay-road-turramurra-nsw-2074-2015440490",
+        "address": "10_6 Finlay Road, Turramurra NSW 2074",
+        "price": 1850000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "Townhouse",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T09:45:002020-02-22T10:15:00",
+            "openingDateTime": "2020-02-22T09:45:00",
+            "closingDateTime": "2020-02-22T10:15:00",
+            "repeat": false,
+            "time": "9:45am - 10:15am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/15-chauvel-close-wahroonga-nsw-2076-2016095654",
+        "address": "15 Chauvel Close, Wahroonga NSW 2076",
+        "price": 1950000.0,
+        "beds": 3,
+        "baths": 1,
+        "parking": 1,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:30:002020-02-22T14:00:00",
+            "openingDateTime": "2020-02-22T13:30:00",
+            "closingDateTime": "2020-02-22T14:00:00",
+            "repeat": false,
+            "time": "1:30pm - 2:00pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/92-burns-road-wahroonga-nsw-2076-2016050533",
+        "address": "92 Burns Road, Wahroonga NSW 2076",
+        "price": 1950000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/31-mount-pleasant-avenue-normanhurst-nsw-2076-2016060723",
+        "address": "31 Mount Pleasant Avenue, Normanhurst NSW 2076",
+        "price": 1950000.0,
+        "beds": 6,
+        "baths": 6,
+        "parking": 3,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T09:15:002020-02-22T09:45:00",
+            "openingDateTime": "2020-02-22T09:15:00",
+            "closingDateTime": "2020-02-22T09:45:00",
+            "repeat": false,
+            "time": "9:15am - 9:45am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/55-station-st-thornleigh-nsw-2120-2016091991",
+        "address": "55 Station St, Thornleigh NSW 2120",
+        "price": 1950000.0,
+        "beds": 5,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T10:00:002020-02-22T10:40:00",
+            "openingDateTime": "2020-02-22T10:00:00",
+            "closingDateTime": "2020-02-22T10:40:00",
+            "repeat": false,
+            "time": "10:00am - 10:40am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/19-finlay-road-warrawee-nsw-2074-2016070239",
+        "address": "19 Finlay Road, Warrawee NSW 2074",
+        "price": 1950000.0,
+        "beds": 5,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T10:30:002020-02-22T11:00:00",
+            "openingDateTime": "2020-02-22T10:30:00",
+            "closingDateTime": "2020-02-22T11:00:00",
+            "repeat": false,
+            "time": "10:30am - 11:00am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/72-the-chase-road-turramurra-nsw-2074-2016059973",
+        "address": "72 The Chase Road, Turramurra NSW 2074",
+        "price": 1950000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:00:002020-02-22T13:30:00",
+            "openingDateTime": "2020-02-22T13:00:00",
+            "closingDateTime": "2020-02-22T13:30:00",
+            "repeat": false,
+            "time": "1:00pm - 1:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/6-stephanie-place-turramurra-nsw-2074-2016072860",
+        "address": "6 Stephanie Place, Turramurra NSW 2074",
+        "price": 1950000.0,
+        "beds": 5,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:00:002020-02-22T13:30:00",
+            "openingDateTime": "2020-02-22T13:00:00",
+            "closingDateTime": "2020-02-22T13:30:00",
+            "repeat": false,
+            "time": "1:00pm - 1:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/23-browning-road-turramurra-nsw-2074-2016073283",
+        "address": "23 Browning Road, Turramurra NSW 2074",
+        "price": 1950000.0,
+        "beds": 5,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:00:002020-02-22T12:30:00",
+            "openingDateTime": "2020-02-22T12:00:00",
+            "closingDateTime": "2020-02-22T12:30:00",
+            "repeat": false,
+            "time": "12:00pm - 12:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/3-7-wonga-wonga-street-turramurra-nsw-2074-2016050171",
+        "address": "3_7 Wonga Wonga Street, Turramurra NSW 2074",
+        "price": 1950000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "Townhouse",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:15:002020-02-22T12:45:00",
+            "openingDateTime": "2020-02-22T12:15:00",
+            "closingDateTime": "2020-02-22T12:45:00",
+            "repeat": false,
+            "time": "12:15pm - 12:45pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/18-charlton-avenue-turramurra-nsw-2074-2016042672",
+        "address": "18 Charlton Avenue, Turramurra NSW 2074",
+        "price": 1950000.0,
+        "beds": 4,
+        "baths": 3,
+        "parking": 3,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T09:30:002020-02-22T22:00:00",
+            "openingDateTime": "2020-02-22T09:30:00",
+            "closingDateTime": "2020-02-22T22:00:00",
+            "repeat": false,
+            "time": "9:30am - 10:00pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/3-wearne-avenue-pennant-hills-nsw-2120-2015661328",
+        "address": "3 Wearne Avenue, Pennant Hills NSW 2120",
+        "price": 1950000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "Vacant land",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/20-sherbrook-road-hornsby-nsw-2077-2014762589",
+        "address": "20 Sherbrook Road, Hornsby NSW 2077",
+        "price": 1950000.0,
+        "beds": 3,
+        "baths": 1,
+        "parking": 4,
+        "type": "House",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/1-9-15-cherry-street-warrawee-nsw-2074-2015942945",
+        "address": "1_9_15 Cherry Street, Warrawee NSW 2074",
+        "price": 1950000.0,
+        "beds": 4,
+        "baths": 3,
+        "parking": 2,
+        "type": "Townhouse",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:00:002020-02-22T13:30:00",
+            "openingDateTime": "2020-02-22T13:00:00",
+            "closingDateTime": "2020-02-22T13:30:00",
+            "repeat": false,
+            "time": "1:00pm - 1:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/10-6-finlay-road-turramurra-nsw-2074-2015440490",
+        "address": "10_6 Finlay Road, Turramurra NSW 2074",
+        "price": 1950000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "Townhouse",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T09:45:002020-02-22T10:15:00",
+            "openingDateTime": "2020-02-22T09:45:00",
+            "closingDateTime": "2020-02-22T10:15:00",
+            "repeat": false,
+            "time": "9:45am - 10:15am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/92-burns-road-wahroonga-nsw-2076-2016050533",
+        "address": "92 Burns Road, Wahroonga NSW 2076",
+        "price": 2050000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": ""
+    },
+    {
+        "URL": "https://www.domain.com.au/31-mount-pleasant-avenue-normanhurst-nsw-2076-2016060723",
+        "address": "31 Mount Pleasant Avenue, Normanhurst NSW 2076",
+        "price": 2050000.0,
+        "beds": 6,
+        "baths": 6,
+        "parking": 3,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T09:15:002020-02-22T09:45:00",
+            "openingDateTime": "2020-02-22T09:15:00",
+            "closingDateTime": "2020-02-22T09:45:00",
+            "repeat": false,
+            "time": "9:15am - 9:45am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/19-finlay-road-warrawee-nsw-2074-2016070239",
+        "address": "19 Finlay Road, Warrawee NSW 2074",
+        "price": 2050000.0,
+        "beds": 5,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T10:30:002020-02-22T11:00:00",
+            "openingDateTime": "2020-02-22T10:30:00",
+            "closingDateTime": "2020-02-22T11:00:00",
+            "repeat": false,
+            "time": "10:30am - 11:00am"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/72-the-chase-road-turramurra-nsw-2074-2016059973",
+        "address": "72 The Chase Road, Turramurra NSW 2074",
+        "price": 2050000.0,
+        "beds": 4,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:00:002020-02-22T13:30:00",
+            "openingDateTime": "2020-02-22T13:00:00",
+            "closingDateTime": "2020-02-22T13:30:00",
+            "repeat": false,
+            "time": "1:00pm - 1:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/6-stephanie-place-turramurra-nsw-2074-2016072860",
+        "address": "6 Stephanie Place, Turramurra NSW 2074",
+        "price": 2050000.0,
+        "beds": 5,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:00:002020-02-22T13:30:00",
+            "openingDateTime": "2020-02-22T13:00:00",
+            "closingDateTime": "2020-02-22T13:30:00",
+            "repeat": false,
+            "time": "1:00pm - 1:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/23-browning-road-turramurra-nsw-2074-2016073283",
+        "address": "23 Browning Road, Turramurra NSW 2074",
+        "price": 2050000.0,
+        "beds": 5,
+        "baths": 2,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T12:00:002020-02-22T12:30:00",
+            "openingDateTime": "2020-02-22T12:00:00",
+            "closingDateTime": "2020-02-22T12:30:00",
+            "repeat": false,
+            "time": "12:00pm - 12:30pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/18-charlton-avenue-turramurra-nsw-2074-2016042672",
+        "address": "18 Charlton Avenue, Turramurra NSW 2074",
+        "price": 2050000.0,
+        "beds": 4,
+        "baths": 3,
+        "parking": 3,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T09:30:002020-02-22T22:00:00",
+            "openingDateTime": "2020-02-22T09:30:00",
+            "closingDateTime": "2020-02-22T22:00:00",
+            "repeat": false,
+            "time": "9:30am - 10:00pm"
+        }
+    },
+    {
+        "URL": "https://www.domain.com.au/6-stephanie-place-turramurra-nsw-2074-2016072860",
+        "address": "6 Stephanie Place, Turramurra NSW 2074",
+        "price": 2150000.0,
+        "beds": 5,
+        "baths": 3,
+        "parking": 2,
+        "type": "House",
+        "Next Inspection": {
+            "dayOfWeek": "Saturday",
+            "day": "22",
+            "month": "February",
+            "id": "2020-02-22T13:00:002020-02-22T13:30:00",
+            "openingDateTime": "2020-02-22T13:00:00",
+            "closingDateTime": "2020-02-22T13:30:00",
+            "repeat": false,
+            "time": "1:00pm - 1:30pm"
+        }
     }
 ]
