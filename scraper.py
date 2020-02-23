@@ -63,6 +63,12 @@ for i in range (_min,_max,_inc):
             #price = propertyjson["listingsMap"][f"{p_id}"]["listingModel"]["price"]
             price = (_end_price + _start_price) / 2 
             baths = propertyjson["listingSummary"]["baths"]
+            propertyid = propertyjson["id"]
+            suburb = propertyjson.get("suburb","")
+            postcode = propertyjson.get("postcode","")
+            profileCreatedOn = propertyjson.get("createdOn","")
+            profileModifiedOn = propertyjson.get("modifiedOn","")
+            
             try:
                 parking = propertyjson["listingSummary"]["parking"]
             except:
@@ -72,12 +78,11 @@ for i in range (_min,_max,_inc):
             except:
                 Nextinspection = ""
 
-            _resultContent.append({"URL":propertyurl,"address":add, "price":price, "beds":beds, "baths":baths, "parking":parking, "type":propertyType, "Next Inspection":Nextinspection})  
+            _resultContent.append({"Property ID": propertyid ,"URL":propertyurl,"address":add, "price":price, "beds":beds, "baths":baths, "parking":parking, "type":propertyType, "Next Inspection":Nextinspection, "suburb":suburb, "postcode" : postcode, "profileCreatedOn": profileCreatedOn, "profileModifiedOn":profileModifiedOn})  
 
             # result = "\n URL: {} \n Property address: {} \n guid price: {} \n bedroom: {} \n type: {} ".format(propertyurl,add,price,beds,propertyType) 
 
             # _resultContent += result
-            
             _page += 1 
 
 with open(f"result.json","w") as j:
