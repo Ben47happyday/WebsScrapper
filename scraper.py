@@ -1,4 +1,5 @@
 import requests 
+from pyodbc import connect as cnn
 import urllib.request 
 import time 
 from bs4 import BeautifulSoup
@@ -20,6 +21,13 @@ _page = 1
 _suburb = config[0]["suburb"]
 
 _resultContent = []
+
+# connect MS SQL database
+_conn = cnn ('Driver={SQL Server};'
+                            f'Server=walkie-talkie\manteauDev;'
+                            'Database=Properties;'
+                            'Trusted_Connection=yes;')
+
 
 for i in range (_min,_max,_inc):
 
@@ -94,3 +102,17 @@ for i in range (_min,_max,_inc):
 with open(f"result.json","w") as j:
         json.dump(_resultContent,j)
 
+
+# execute sql procedure to load data into database
+
+#bulk insert data into staging
+
+_conn.execute("exec [stage].[Load_property_detail]")
+_conn.commit()
+print ("executed [stage].[Load_property_detail]") 
+# merge into target table 
+_conn.execute("exec [dbo].[Load_property_detail]")
+_conn.commit()
+print ("executed [dbo].[Load_property_detail] to merge into target table") 
+
+print ("Completed !")
