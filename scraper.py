@@ -5,13 +5,19 @@ from bs4 import BeautifulSoup
 import json
 import re 
 
+#load configuration file 
 
-_min = 900000
-_max = 2200000
-_inc = 100000
+with open("config.json","r") as j:
+    config = json.load(j)
 
+
+_min = int(config[0]["min price"].replace(",","")) 
+_max = int(config[0]["max price"].replace(",","")) 
+_inc = int(config[0]["step amount"].replace(",","")) 
+
+print("Start")
 _page = 1
-_suburb = 'wahroonga'
+_suburb = config[0]["suburb"]
 
 _resultContent = []
 
@@ -87,3 +93,4 @@ for i in range (_min,_max,_inc):
 
 with open(f"result.json","w") as j:
         json.dump(_resultContent,j)
+

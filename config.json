@@ -1,0 +1,8 @@
+[
+    {
+        "suburb" : "Wahroonga",
+        "min price" : "1,000,000",
+        "max price" : "2,000,000",
+        "step amount" : "10,000"
+    }
+]
