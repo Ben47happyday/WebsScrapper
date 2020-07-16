@@ -4,7 +4,9 @@ import urllib.request
 import time 
 from bs4 import BeautifulSoup
 import json
-import re 
+import re , wmi
+import numpy as np
+
 
 #load configuration file 
 
@@ -40,10 +42,13 @@ for i in range (_min,_max,_inc):
 
         url = f"https://www.domain.com.au/sale/{_suburb}-nsw-2076/?price={_start_price}-{_end_price}&enablemobilemap=1&page={_page}"
 
-        response = requests.get(url)
+        
+        headers = {'User-Agent': 'Mozilla/5.0'}
+
+        response = requests.get(url, headers = headers, proxies={'http':'50.207.31.221:80'})
 
         #break while loop if response return 400 
-        if response.status_code == 400:
+        if response.status_code in (400, 403):
             _page_end = True
             print("response status {}".format(response.status_code)) 
             break
