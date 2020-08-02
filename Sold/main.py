@@ -1,8 +1,8 @@
 import Sold_Scraper as ss 
 
-Suburb = 'pymble'
+Suburb = 'warrawee'
 State = 'NSW'
-Postcode = '2073'
+Postcode = '2074'
 
 
 ss.scraper(Suburb,State,Postcode)

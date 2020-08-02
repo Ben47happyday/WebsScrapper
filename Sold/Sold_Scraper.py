@@ -137,11 +137,11 @@ def scraper (suburb, state, postcode):
     _priceRange2 = 30000000
     _inc = 100000
     # SQL Server Connection config
+    # _conn = cnn ("Driver={ODBC Driver 13 for SQL Server};Server=tcp:ellie-az-prd-01.database.windows.net,1433;Database=Real_Estate;Uid=SQLpython;Pwd={Zw55227700};Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;")
     _conn = cnn ('Driver={SQL Server};'
                             f'Server=walkie-talkie\manteauDev;'
                             'Database=Properties;'
                             'Trusted_Connection=yes;')
-
     for _price in range(_priceRange1, _priceRange2, _inc): 
 
         while 1:
@@ -183,7 +183,7 @@ def scraper (suburb, state, postcode):
 
             if soup.h3.next == 'No exact matches':
                 _page = 1 
-                print ('    No Eact Matches')
+                print ('    No exact Matches')
                 break
 
             propertyList = soup.find_all("li",class_="css-1b4kfhp")
@@ -208,7 +208,7 @@ def scraper (suburb, state, postcode):
             
             print ('    Json File Updated !')
 
-            _conn.execute(" exec [stage].[Load_Sold_Properties]")
+            _conn.execute("exec [stage].[Load_Sold_Properties]")
             _conn.commit()
             print ("    executed [stage].[Load_Sold_Properties]") 
             # merge into target table 
