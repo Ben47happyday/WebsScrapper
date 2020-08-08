@@ -5,6 +5,7 @@ import time
 from bs4 import BeautifulSoup
 import json, re , wmi,requests
 from datetime import datetime
+from Config import Configure as cfg
 
 
 print("Start Scrap Domain for Sold Properties")
@@ -132,19 +133,28 @@ def decode_soup (soup, price):
 
 def scraper (suburb, state, postcode):
 
-    _page = 1
-    _priceRange1 = 100000
-    _priceRange2 = 30000000
-    _inc = 100000
+    
+    _priceRange1 = cfg.min_price
+    _priceRange2 = cfg.max_price
+    _inc = cfg.inc
     # SQL Server Connection config
     # _conn = cnn ("Driver={ODBC Driver 13 for SQL Server};Server=tcp:ellie-az-prd-01.database.windows.net,1433;Database=Real_Estate;Uid=SQLpython;Pwd={Zw55227700};Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;")
-    _conn = cnn ('Driver={SQL Server};'
-                            f'Server=walkie-talkie\manteauDev;'
-                            'Database=Properties;'
-                            'Trusted_Connection=yes;')
+    _conn = cnn (cfg.Azure_DB_CNString)
+    cursor = _conn.cursor()
+    _conn.execute("truncate table stage.Sold_Properties") 
+
+    _page = 1
+    _NoResponsePage = 0 
+    _shouldbreak = True
+
     for _price in range(_priceRange1, _priceRange2, _inc): 
+        
+        # exit iterate if more than 10 no response
+        if _NoResponsePage == 20:
+            break
 
         while 1:
+            _shouldbreak = True
 
             propertyList_List = []
             
@@ -184,6 +194,8 @@ def scraper (suburb, state, postcode):
             if soup.h3.next == 'No exact matches':
                 _page = 1 
                 print ('    No exact Matches')
+                _NoResponsePage = _NoResponsePage + 1 
+                _shouldbreak = False
                 break
 
             propertyList = soup.find_all("li",class_="css-1b4kfhp")
@@ -198,24 +210,53 @@ def scraper (suburb, state, postcode):
                     # pass middile price for price range to instead price which with held
                     midPrice =  (_price + _price2) / 2  
                     property_dic = decode_soup(s, midPrice)
-                    propertyList_List.append(property_dic)
+
+                    #convert property_dic to tuple 
+                    property_List = [tuple(property_dic.values())]
+        
+                    cursor.executemany('''insert into stage.Sold_Properties (
+                                         [Domain_PropertyID]
+                                        ,[Sold_Comment]
+                                        ,[Sold_Price]
+                                        ,[Property_Name]
+                                        ,[Property_Type]
+                                        ,[Beds]
+                                        ,[Bath]
+                                        ,[Parking]
+                                        ,[Land_Size]
+                                        ,[Sold_Date]
+                                        ,[URL]
+                                        ,[Street]
+                                        ,[Suburb]
+                                        ,[state]
+                                        ,[Postcode]
+                                        ,[Price_With_Held] )
+                                        values(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)''',property_List)
+                    _conn.commit()
+                    # propertyList_List.append(property_dic)
                     propertyID = int(property_dic['Property ID']) 
+                    _NoResponsePage = 0 
                     print ("  List Page [{}] Fetch Soup [{}] Property Name [{}]".format(_page-1, i,property_dic["Property Name"])) 
-            
-            print ('    Encode into Json File.....')
-            with open(f'Sold_Properties.json','w') as f:
-                json.dump(propertyList_List,f)
-            
-            print ('    Json File Updated !')
+                    _shouldbreak = False
 
-            _conn.execute("exec [stage].[Load_Sold_Properties]")
-            _conn.commit()
-            print ("    executed [stage].[Load_Sold_Properties]") 
+            if _shouldbreak:
+                break
+
+        if _shouldbreak:
+            break
+            # print ('    Encode into Json File.....')
+            # with open(f'Sold_Properties.json','w') as f:
+            #     json.dump(propertyList_List,f)
+            
+            # print ('    Json File Updated !')
+
+            # _conn.execute("exec [stage].[Load_Sold_Properties]")
+            # _conn.commit()
+            # print ("    executed [stage].[Load_Sold_Properties]") 
             # merge into target table 
-            _conn.execute("exec [dbo].[Merge_Sold_Property_to_Target]")
-            _conn.commit()
-            print ("    executed [dbo].[Merge_Sold_Property_to_Target] to merge into target table") 
-
+    _conn.execute("exec [dbo].[Merge_Sold_Property_to_Target]")
+    _conn.commit()
+    print ("    executed [dbo].[Merge_Sold_Property_to_Target] to merge into target table") 
 
 print('Web Suck Completed ')
 
